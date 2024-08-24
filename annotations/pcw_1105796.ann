@@ -1,0 +1,20 @@
+T1	Person 10 20	J S Hughes
+T2	Person 52 62	Mr Barrett
+T3	Date 63 67	1945
+T4	Person 78 87	P. Hughes
+T5	Person 101 113	J. S. Hughes
+T6	Location 114 124	52 Monkton
+T7	Location 125 133	Pembroke
+T8	Person 182 199	Mr W. Barrett Esq
+T9	Misc 200 216	County Architect
+#1	AnnotatorNotes T9	Role?
+#T7	AnnotatorNotes T7	http://www.wikidata.org/entity/Q1762242
+#T9	AnnotatorNotes T9	http://www.wikidata.org/entity/Q55517968
+T10	Location 21 29	Pembroke
+#2	AnnotatorNotes T10	http://www.wikidata.org/entity/Q1762242
+#3	AnnotatorNotes T6	https://www.wikidata.org/wiki/Q6901018
+R1	significant_person Arg1:T1 Arg2:T2	
+R2	location_in Arg1:T6 Arg2:T7	
+R3	occupation Arg1:T8 Arg2:T9	
+R4	residence Arg1:T1 Arg2:T10	
+R5	residence Arg1:T5 Arg2:T6	

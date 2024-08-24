@@ -1,0 +1,21 @@
+T1	Location 13 26	Craig-y-Dinas
+T2	Location 34 46	Ystradfellte
+T3	Date 48 52	1830
+T4	Person 73 88	Henry Gastineau
+T5	Location 130 143	Craig-y-Dinas
+T6	Location 147 157	Dinas Rock
+T7	Location 163 175	Ystradfellte
+T8	Location 200 211	Breconshire
+T9	Location 216 230	Glamorganshire
+T10	Location 332 346	Craig-y-Ddinas
+T11	Person 421 432	King Arthur
+#T1	AnnotatorNotes T1	http://www.wikidata.org/entity/Q20584616
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q1009284
+#T4	AnnotatorNotes T4	http://www.wikidata.org/entity/Q5721823
+#T5	AnnotatorNotes T5	http://www.wikidata.org/entity/Q20584616
+#T6	AnnotatorNotes T6	http://www.wikidata.org/entity/Q5277970
+#T7	AnnotatorNotes T7	http://www.wikidata.org/entity/Q1009284
+#T8	AnnotatorNotes T8	http://www.wikidata.org/entity/Q547052
+#T9	AnnotatorNotes T9	http://www.wikidata.org/entity/Q870815
+#T10	AnnotatorNotes T10	http://www.wikidata.org/entity/Q20584616
+#T11	AnnotatorNotes T11	http://www.wikidata.org/entity/Q45792

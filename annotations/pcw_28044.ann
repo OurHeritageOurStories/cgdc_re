@@ -1,0 +1,8 @@
+T1	Misc 0 25	On the Road to St. Brides
+T2	Person 27 41	Parker Hagarty
+#1	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q21462022
+T3	Date 43 47	1897
+T4	Location 83 113	Newport Museum and Art Gallery
+#2	AnnotatorNotes T4	https://www.wikidata.org/wiki/Q15262183
+#3	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q119720093
+R1	inception Arg1:T1 Arg2:T3	

@@ -1,0 +1,10 @@
+T1	Organisation 12 34	Goodwick Harbour Works
+T2	Person 177 179	J.
+T3	Person 190 205	Miss Lucy White
+T4	Location 207 216	Holmleigh
+T5	Location 218 227	Barns Row
+T6	Location 229 239	Carmarthen
+#T6	AnnotatorNotes T6	http://www.wikidata.org/entity/Q835835
+R1	residence Arg1:T3 Arg2:T4	
+R2	location_in Arg1:T4 Arg2:T5	
+R3	location_in Arg1:T5 Arg2:T6	

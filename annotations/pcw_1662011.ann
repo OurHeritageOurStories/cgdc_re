@@ -1,0 +1,18 @@
+T1	Location 0 13	Central Hotel
+T2	Location 15 26	Aberystwyth
+T3	Location 27 40	Central Hotel
+T4	Location 49 55	Llanon
+T5	Location 57 62	Wales
+T6	Misc 88 96	Wicipics
+T7	Organisation 134 150	Creative Commons
+T8	Misc 151 171	CC BY-SA 3.0 Licence
+#T1	AnnotatorNotes T1	http://www.wikidata.org/entity/Q33158029
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q213154
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q33158029
+#T4	AnnotatorNotes T4	http://www.wikidata.org/entity/Q6661685
+#T5	AnnotatorNotes T5	http://www.wikidata.org/entity/Q25
+#T6	AnnotatorNotes T6	http://www.wikidata.org/entity/Q101553389
+#T7	AnnotatorNotes T7	http://www.wikidata.org/entity/Q43449
+#1	AnnotatorNotes T8	https://www.wikidata.org/wiki/Q14946043
+R1	location_in Arg1:T1 Arg2:T2	
+R2	location_in Arg1:T4 Arg2:T5	

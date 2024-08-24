@@ -1,0 +1,31 @@
+T1	Location 27 35	Brongest
+T2	Person 51 58	Charlie
+T3	Person 63 79	Catherine Thomas
+T4	Location 81 96	Aberarthen Fach
+T5	Location 98 106	Brongest
+T6	Location 147 154	Belgium
+T7	Misc 0 7	Belgian
+T8	Misc 205 212	Belgian
+T9	Person 166 173	Charlie
+T11	Location 250 257	Antwerp
+T12	Organisation 289 301	Salem Chapel
+T13	Location 303 311	Brongest
+T14	Date 320 333	December 1914
+T15	Date 342 353	end of 1915
+T10	Person 227 237	Vanderberg
+T16	Misc 8 15	Soldier
+#T1	AnnotatorNotes T1	http://www.wikidata.org/entity/Q16007334
+#T5	AnnotatorNotes T5	http://www.wikidata.org/entity/Q16007334
+#T6	AnnotatorNotes T6	http://www.wikidata.org/entity/Q31
+#T7	AnnotatorNotes T7	http://www.wikidata.org/entity/Q1377716
+#T8	AnnotatorNotes T8	http://www.wikidata.org/entity/Q1377716
+#T11	AnnotatorNotes T11	http://www.wikidata.org/entity/Q12892
+#T12	AnnotatorNotes T12	http://www.wikidata.org/entity/Q29484528
+#T13	AnnotatorNotes T13	https://www.wikidata.org/wiki/Q99448672
+#T10	AnnotatorNotes T10	https://www.wikidata.org/wiki/Q37316014
+#T16	AnnotatorNotes T16	http://www.wikidata.org/entity/Q4991371
+R1	location_in Arg1:T4 Arg2:T5	
+R2	work_location Arg1:T12 Arg2:T13	
+R3	residence Arg1:T3 Arg2:T4	
+R4	place_of_birth Arg1:T10 Arg2:T11	
+R5	affiliation Arg1:T10 Arg2:T12	

@@ -1,0 +1,8 @@
+T1	Misc 29 35	Y Wawr
+T2	Organisation 38 41	MyW
+T3	Location 60 72	Conrah Hotel
+T4	Person 74 93	Sandra Morris Jones
+#T1	AnnotatorNotes T1	http://www.wikidata.org/entity/Q32336584
+#T2	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q6818465
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q108398264
+R1	notable_work Arg1:T2 Arg2:T1	

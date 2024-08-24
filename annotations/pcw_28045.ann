@@ -1,0 +1,8 @@
+T1	Person 16 29	Thomas Barker
+#1	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q321465
+T2	Date 31 35	1800
+T3	Location 71 101	Newport Museum and Art Gallery
+#2	AnnotatorNotes T3	https://www.wikidata.org/wiki/Q15262183
+T4	Misc 0 14	Storm at Night
+#3	AnnotatorNotes T4	https://www.wikidata.org/wiki/Q119668867
+R1	inception Arg1:T4 Arg2:T2	

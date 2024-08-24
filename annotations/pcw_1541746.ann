@@ -1,0 +1,13 @@
+T1	Location 46 54	Bethesda
+T2	Location 56 67	north Wales
+T3	Location 122 130	Bethesda
+T4	Location 132 143	north Wales
+T5	Misc 155 172	Covid 19 pandemic
+#1	AnnotatorNotes T5	http://www.wikidata.org/entity/Q81068910
+#T1	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q1883524
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q1892770
+#T3	AnnotatorNotes T3	https://www.wikidata.org/wiki/Q1883524
+#T4	AnnotatorNotes T4	http://www.wikidata.org/entity/Q1892770
+#T5	AnnotatorNotes T5	http://www.wikidata.org/entity/Q81068910
+R1	location_in Arg1:T1 Arg2:T2	
+R2	location_in Arg1:T3 Arg2:T4	

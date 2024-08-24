@@ -1,0 +1,12 @@
+T1	Location 21 38	Llandrindod Wells
+T2	Date 40 45	1900s
+T3	Location 84 94	Boat House
+T4	Location 110 127	Llandrindod Wells
+T5	Date 219 233	late Victorian
+T6	Date 238 253	early Edwardian
+T7	Location 290 296	Berlin
+#T1	AnnotatorNotes T1	http://www.wikidata.org/entity/Q1024885
+#T4	AnnotatorNotes T4	http://www.wikidata.org/entity/Q1024885
+#T7	AnnotatorNotes T7	http://www.wikidata.org/entity/Q64
+R1	point_in_time Arg1:T1 Arg2:T2	
+R2	location_in Arg1:T3 Arg2:T4	

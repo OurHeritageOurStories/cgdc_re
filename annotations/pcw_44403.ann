@@ -1,0 +1,8 @@
+T1	Misc 0 17	Roman spectacular
+T2	Date 18 22	2012
+T3	Misc 98 115	Roman Spectacular
+T4	Location 60 81	Caerleon Amphitheatre
+#1	AnnotatorNotes T4	https://www.wikidata.org/wiki/Q2844398
+T5	Date 123 140	late summer, 2012
+R1	point_in_time Arg1:T1 Arg2:T2	
+R2	point_in_time Arg1:T3 Arg2:T5	

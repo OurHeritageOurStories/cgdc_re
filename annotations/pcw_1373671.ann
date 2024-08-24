@@ -1,0 +1,12 @@
+T1	Misc 0 21	Rainbows from Windows
+T2	Person 25 32	Shelley
+T3	Location 34 45	Maenclochog
+T4	Misc 67 86	Rainbows in Windows
+T5	Misc 119 140	Rainbows from Windows
+T6	Location 144 149	Wales
+T7	Person 182 196	Shelley Morris
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q6729228
+#T6	AnnotatorNotes T6	http://www.wikidata.org/entity/Q25
+R1	notable_work Arg1:T2 Arg2:T1	
+R2	residence Arg1:T2 Arg2:T3	
+R3	location Arg1:T5 Arg2:T6	

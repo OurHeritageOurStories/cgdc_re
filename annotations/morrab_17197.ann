@@ -1,0 +1,17 @@
+T1	Location 0 20	Preston Family house
+T2	Location 22 30	Penzance
+#1	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q208209
+T3	Location 39 47	Alverton
+#2	AnnotatorNotes T3	https://www.wikidata.org/wiki/Q2146298
+T4	Person 68 75	Preston
+T7	Location 117 125	Penzance
+#3	AnnotatorNotes T7	https://www.wikidata.org/wiki/Q208209
+T8	Date 131 135	1860
+T9	Location 162 189	National Asssistance Office
+T10	Location 208 237	Alverne Restaurant and Lounge
+#4	AnnotatorNotes T10	https://www.wikidata.org/wiki/Q17530818
+T5	Misc 90 102	photographer
+R1	occupation Arg1:T4 Arg2:T5	
+R2	residence Arg1:T4 Arg2:T3	
+R3	work_location Arg1:T4 Arg2:T7	
+R4	location_in Arg1:T1 Arg2:T2	

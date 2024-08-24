@@ -1,0 +1,6 @@
+T1	Location 0 15	Castle An Dinas
+#1	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q5050344
+T2	Location 17 25	Penzance
+#2	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q208209
+T3	Location 60 78	Rogers Tower Folly
+R1	location_in Arg1:T1 Arg2:T2	

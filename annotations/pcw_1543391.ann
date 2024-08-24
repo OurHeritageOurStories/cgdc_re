@@ -1,0 +1,6 @@
+T1	Location 0 22	Tregaron Memorial Hall
+T2	Location 23 45	Tregaron Memorial Hall
+T3	Location 102 111	Town Hall
+T4	Date 123 138	04 January 1922
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q25550691
+R1	location_in Arg1:T2 Arg2:T3	

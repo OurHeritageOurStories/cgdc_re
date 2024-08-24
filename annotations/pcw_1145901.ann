@@ -1,0 +1,6 @@
+T2	Location 20 31	South Wales
+T3	Location 35 48	Ty Glyn Aeron
+T4	Person 64 80	Rhiannon Roberts
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q1286223
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q124664360
+R1	location_in Arg1:T2 Arg2:T3	

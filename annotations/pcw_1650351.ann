@@ -1,0 +1,18 @@
+T1	Location 0 16	No.22 North Road
+T2	Location 18 27	Aberaeron
+T3	Location 28 44	No.22 North Road
+T4	Location 74 83	Aberaeron
+T5	Misc 46 61	Grade II listed
+#1	AnnotatorNotes T5	Named category?
+T6	Misc 109 117	Wicipics
+T7	Organisation 155 171	Creative Commons
+T8	Misc 172 192	CC BY-SA 3.0 Licence
+#T1	AnnotatorNotes T1	http://www.wikidata.org/entity/Q29488726
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q1765460
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q29488726
+#T4	AnnotatorNotes T4	http://www.wikidata.org/entity/Q1765460
+#T5	AnnotatorNotes T5	http://www.wikidata.org/entity/Q15700834
+#T6	AnnotatorNotes T6	http://www.wikidata.org/entity/Q101553389
+#T7	AnnotatorNotes T7	http://www.wikidata.org/entity/Q43449
+#2	AnnotatorNotes T8	https://www.wikidata.org/wiki/Q14946043
+R1	location_in Arg1:T1 Arg2:T2	

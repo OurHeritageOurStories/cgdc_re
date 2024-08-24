@@ -1,0 +1,13 @@
+T1	Misc 0 3	WW1
+#1	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q361
+T2	Person 37 45	Job Gray
+T3	Person 94 102	Job Gray
+T4	Location 106 115	Cilfynydd
+#2	AnnotatorNotes T4	https://www.wikidata.org/wiki/Q5119940
+T5	Organisation 137 151	Welsh Regiment
+#3	AnnotatorNotes T5	https://www.wikidata.org/wiki/Q7980559
+T6	Misc 155 168	World War One
+#4	AnnotatorNotes T6	https://www.wikidata.org/wiki/Q361
+R1	member_of Arg1:T3 Arg2:T5	
+R3	residence Arg1:T3 Arg2:T4	
+R2	participant_in Arg1:T3 Arg2:T6	

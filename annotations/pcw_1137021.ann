@@ -1,0 +1,10 @@
+T1	Date 34 40	c.1918
+T2	Misc 189 203	U-Boat Project
+T3	Date 204 211	1914-18
+T5	Person 215 236	Walter Lloyd-Williams
+T6	Location 238 246	Holyhead
+T4	Misc 0 6	Sailor
+#T6	AnnotatorNotes T6	http://www.wikidata.org/entity/Q257446
+#T4	AnnotatorNotes T4	http://www.wikidata.org/entity/Q45199
+R1	point_in_time Arg1:T2 Arg2:T3	
+R2	residence Arg1:T5 Arg2:T6	

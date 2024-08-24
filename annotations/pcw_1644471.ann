@@ -1,0 +1,15 @@
+T1	Location 0 19	Ystumtuen Lead Mine
+T2	Location 21 31	Ceredigion
+T3	Location 32 51	Ystumtuen Lead Mine
+T4	Location 66 78	Blaenrheidol
+T5	Misc 104 112	Wicipics
+T6	Organisation 150 166	Creative Commons
+T7	Misc 167 187	CC BY-SA 3.0 Licence
+#T1	AnnotatorNotes T1	http://www.wikidata.org/entity/Q102081829
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q217829
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q102081829
+#T4	AnnotatorNotes T4	http://www.wikidata.org/entity/Q15651371
+#T5	AnnotatorNotes T5	http://www.wikidata.org/entity/Q101553389
+#T6	AnnotatorNotes T6	http://www.wikidata.org/entity/Q43449
+#1	AnnotatorNotes T7	https://www.wikidata.org/wiki/Q14946043
+R1	location_in Arg1:T1 Arg2:T2	

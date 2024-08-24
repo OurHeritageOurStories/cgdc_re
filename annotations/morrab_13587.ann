@@ -1,0 +1,10 @@
+T1	Location 0 16	Beachfield Hotel
+T2	Location 18 26	Penzance
+#1	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q208209
+T3	Location 27 43	Beachfield Hotel
+T4	Location 55 69	Alexandra Road
+T5	Location 71 79	Penzance
+#2	AnnotatorNotes T5	https://www.wikidata.org/wiki/Q208209
+R1	location_in Arg1:T1 Arg2:T2	
+R2	location_in Arg1:T4 Arg2:T5	
+R3	location_in Arg1:T3 Arg2:T5	

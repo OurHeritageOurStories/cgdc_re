@@ -1,0 +1,12 @@
+T1	Misc 37 96	One Hundred Years of Welsh Calvinistic Methodism in America
+T2	Person 128 153	Sarah Fenno Williams Lord
+T3	Person 158 163;164 182	Edith Tuckerman Williams
+T5	Misc 277 288;289 336	One Hundred Years of Welsh Calvinistic Methodism in America
+T6	Date 372 376	1937
+T7	Organisation 118 126	Wales-PA
+T4	Person 210 255	Reverend Daniel
+Jenkins Williams, Ph.D., D.D.
+T8	Person 210 225;226 242	Reverend Daniel Jenkins Williams
+#T4	AnnotatorNotes T4	http://www.wikidata.org/entity/Q5217989
+#1	AnnotatorNotes T8	https://www.wikidata.org/wiki/Q20821096
+R1	inception Arg1:T5 Arg2:T6	

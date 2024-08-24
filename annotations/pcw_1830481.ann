@@ -1,0 +1,6 @@
+T1	Location 0 15	Porthkerry Park
+#1	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q81392381
+T2	Location 17 22	Barry
+#2	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q809009
+T3	Person 57 68	Bobby Kenny
+R1	location_in Arg1:T1 Arg2:T2	

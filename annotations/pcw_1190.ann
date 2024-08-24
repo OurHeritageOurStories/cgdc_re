@@ -1,0 +1,12 @@
+T1	Misc 0 28	Boxing Championship of Wales
+T2	Person 47 59	Johnny Owens
+T3	Date 61 65	1907
+T4	Person 87 99	Johnny Owens
+T5	Misc 110 131	championship of Wales
+T6	Date 133 137	1907
+#T2	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q360522
+#T4	AnnotatorNotes T4	https://www.wikidata.org/wiki/Q360522
+R1	point_in_time Arg1:T1 Arg2:T3	
+R2	participant_in Arg1:T4 Arg2:T5	
+R3	point_in_time Arg1:T5 Arg2:T6	
+R4	participant_in Arg1:T2 Arg2:T1	

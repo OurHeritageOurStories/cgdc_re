@@ -1,0 +1,14 @@
+T1	Person 42 56	George Edwards
+T4	Person 57 71	George Edwards
+T5	Organisation 96 112	Northern Ireland
+#1	AnnotatorNotes T5	https://www.wikidata.org/wiki/Q190978
+T6	Date 116 130	9th March 1949
+T7	Organisation 146 162	Northern Ireland
+T8	Organisation 169 174	Wales
+T2	Misc 0 39	Welsh Full International Football Shirt
+#T1	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q5538902
+#T4	AnnotatorNotes T4	https://www.wikidata.org/wiki/Q5538902
+#T5	AnnotatorNotes T5	http://www.wikidata.org/entity/Q26
+#T7	AnnotatorNotes T7	https://www.wikidata.org/wiki/Q190978
+#T8	AnnotatorNotes T8	https://www.wikidata.org/wiki/Q180857
+#T2	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q188353

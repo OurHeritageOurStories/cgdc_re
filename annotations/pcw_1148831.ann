@@ -1,0 +1,15 @@
+T1	Misc 29 35	Y Wawr
+T2	Organisation 38 41	MyW
+T3	Location 60 72	Conrah Hotel
+T4	Person 74 88	Helgard Krause
+T5	Organisation 106 125	Welsh Books Council
+T6	Misc 90 98	Director
+#T1	AnnotatorNotes T1	http://www.wikidata.org/entity/Q32336584
+#T2	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q6818465
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q108398264
+#T4	AnnotatorNotes T4	http://www.wikidata.org/entity/Q106629792
+#T5	AnnotatorNotes T5	http://www.wikidata.org/entity/Q3405876
+#T6	AnnotatorNotes T6	https://www.wikidata.org/wiki/Q1162163
+R1	notable_work Arg1:T2 Arg2:T1	
+R2	occupation Arg1:T4 Arg2:T6	
+R3	member_of Arg1:T4 Arg2:T5	

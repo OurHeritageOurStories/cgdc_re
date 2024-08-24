@@ -1,0 +1,6 @@
+T1	Location 17 30	Darren Gesail
+T2	Location 37 48	Pantperthog
+T3	Location 50 61	Machynlleth
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q7131919
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q675460
+R1	location_in Arg1:T2 Arg2:T3	

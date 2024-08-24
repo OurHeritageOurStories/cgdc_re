@@ -1,0 +1,18 @@
+T1	Location 21 30	Aberaeron
+T2	Location 0 19	No.14 Albert Street
+T3	Location 31 50	No.14 Albert Street
+T4	Misc 52 67	Grade II listed
+T5	Location 80 89	Aberaeron
+T6	Misc 115 123	Wicipics
+T7	Organisation 161 177	Creative Commons
+T8	Misc 178 198	CC BY-SA 3.0 Licence
+#1	AnnotatorNotes T4	http://www.wikidata.org/entity/Q15700834
+#T1	AnnotatorNotes T1	http://www.wikidata.org/entity/Q1765460
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q29488630
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q29488630
+#T4	AnnotatorNotes T4	http://www.wikidata.org/entity/Q15700834
+#T5	AnnotatorNotes T5	http://www.wikidata.org/entity/Q1765460
+#T6	AnnotatorNotes T6	http://www.wikidata.org/entity/Q101553389
+#T7	AnnotatorNotes T7	http://www.wikidata.org/entity/Q43449
+#2	AnnotatorNotes T8	https://www.wikidata.org/wiki/Q14946043
+R1	location_in Arg1:T2 Arg2:T1	

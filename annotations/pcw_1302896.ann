@@ -1,0 +1,7 @@
+T1	Person 0 13	Pte Hugh Pugh
+T2	Person 14 27	Pte Hugh Pugh
+T3	Organisation 29 50	Royal Welsh Fusiliers
+T4	Misc 52 63	World War 1
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q752760
+#T4	AnnotatorNotes T4	http://www.wikidata.org/entity/Q361
+R1	member_of Arg1:T2 Arg2:T3	

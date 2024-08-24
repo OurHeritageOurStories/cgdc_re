@@ -1,0 +1,16 @@
+T1	Person 0 10	Ian Palmer
+T2	Person 40 43	Ian
+T3	Location 65 69	TJ's
+#1	AnnotatorNotes T3	https://www.wikidata.org/wiki/Q16897354
+T4	Location 35 39	TJ's
+#2	AnnotatorNotes T4	https://www.wikidata.org/wiki/Q16897354
+T5	Organisation 12 18	Shelac
+#3	AnnotatorNotes T5	https://www.wikidata.org/wiki/Q1479031
+T6	Organisation 78 84	Shelac
+#4	AnnotatorNotes T6	https://www.wikidata.org/wiki/Q1479031
+T7	Organisation 20 30	Headhonker
+T8	Organisation 130 140	Headhonker
+T9	Date 142 147	1990s
+T10	Person 99 108	PJ Harvey
+#5	AnnotatorNotes T10	https://www.wikidata.org/wiki/Q219772
+R1	affiliation Arg1:T2 Arg2:T8	

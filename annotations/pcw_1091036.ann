@@ -1,0 +1,10 @@
+T1	Date 38 42	1937
+T6	Organisation 14 37	W. G. J. Thomas and Son
+T2	Organisation 53 76	W. G. J. Thomas and Son
+T5	Person 80 92	R. Jones Esq
+T7	Location 93 106	4 Bush Street
+T8	Location 107 120	Pembroke Dock
+T9	Date 143 153	6 Jan 1937
+#T8	AnnotatorNotes T8	http://www.wikidata.org/entity/Q784824
+R1	location_in Arg1:T7 Arg2:T8	
+R2	significant_person Arg1:T2 Arg2:T5	

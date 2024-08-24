@@ -1,0 +1,10 @@
+T1	Location 22 33	south Wales
+T2	Misc 36 60	Martin Ridley Collection
+T3	Location 173 184	south Wales
+T4	Date 263 267	1905
+T5	Location 454 465	south Wales
+#T1	AnnotatorNotes T1	http://www.wikidata.org/entity/Q1286223
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q1286223
+#T5	AnnotatorNotes T5	http://www.wikidata.org/entity/Q1286223
+#1	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q78864866
+R1	depicts Arg1:T2 Arg2:T1	

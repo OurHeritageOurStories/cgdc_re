@@ -1,0 +1,18 @@
+T1	Person 9 19	Mary Jones
+T2	Location 21 25	Bala
+T4	Location 72 81	Bala Lake
+T5	Person 118 128	Mary Jones
+T6	Location 130 134	Bala
+T8	Location 181 190	Bala Lake
+T3	Misc 41 60	National Eisteddfod
+T7	Misc 150 169	National Eisteddfod
+#T1	AnnotatorNotes T1	http://www.wikidata.org/entity/Q540159
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q171923
+#T4	AnnotatorNotes T4	http://www.wikidata.org/entity/Q1335466
+#T5	AnnotatorNotes T5	http://www.wikidata.org/entity/Q540159
+#T6	AnnotatorNotes T6	http://www.wikidata.org/entity/Q171923
+#T8	AnnotatorNotes T8	http://www.wikidata.org/entity/Q1335466
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q2745177
+#T7	AnnotatorNotes T7	http://www.wikidata.org/entity/Q2745177
+R1	residence Arg1:T1 Arg2:T2	
+R2	residence Arg1:T5 Arg2:T6	

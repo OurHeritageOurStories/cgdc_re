@@ -1,0 +1,15 @@
+T1	Date 0 4	1982
+T2	Organisation 8 17	CND Cymru
+T3	Misc 19 49	Wales Marches Against the Bomb
+T4	Misc 60 84	Bridgend Bunker Campaign
+T5	Organisation 101 133	Campaign for Nuclear Disarmament
+T6	Organisation 135 138	CND
+T7	Date 140 144	1982
+T8	Location 169 184	Bridgend Bunker
+T9	Misc 207 218	Councillors
+#1	AnnotatorNotes T9	https://www.wikidata.org/wiki/Q708492
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q56174671
+#T5	AnnotatorNotes T5	http://www.wikidata.org/entity/Q178511
+#T6	AnnotatorNotes T6	http://www.wikidata.org/entity/Q178511
+#T9	AnnotatorNotes T9	http://www.wikidata.org/entity/Q99998358
+#2	AnnotatorNotes T8	https://www.wikidata.org/wiki/Q124830627

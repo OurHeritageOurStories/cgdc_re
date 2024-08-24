@@ -1,0 +1,63 @@
+T1	Person 0 12	Jenny Cloete
+T2	Person 49 60	Dori Thomas
+T3	Person 61 66	Jenny
+T4	Organisation 116 131	Community House
+T6	Location 226 233	Maindee
+T7	Organisation 250 265	Community House
+T8	Person 325 330	Jenny
+T9	Location 412 419	Maindee
+T10	Organisation 450 465	Community House
+T11	Person 603 608	Jenny
+T12	Organisation 627 642	Community House
+T13	Location 730 737	Newport
+T14	Person 801 806	Jenny
+T15	Misc 825 836	Bangladeshi
+T17	Organisation 895 910	Community House
+T18	Person 912 917	Jenny
+T19	Organisation 949 964	Community House
+T20	Location 1004 1011	Maindee
+T21	Person 1013 1018	Jenny
+T22	Organisation 1061 1076	Community House
+T23	Location 1101 1109	Brighton
+T24	Misc 1119 1130	Bangladeshi
+T25	Person 1289 1294	Jenny
+T26	Organisation 1395 1410	Community House
+T27	Organisation 1455 1470	Community House
+T28	Person 1548 1553	Jenny
+T29	Organisation 1599 1614	Community House
+T30	Person 1704 1709	Jenny
+T31	Location 1739 1746	Maindee
+T32	Organisation 1761 1776	Community House
+T33	Location 1991 1998	Maindee
+T34	Organisation 2014 2029	Community House
+T35	Misc 2079 2086	English
+T36	Person 2225 2230	Jenny
+T37	Person 2501 2506	Jenny
+T38	Organisation 2521 2536	Community House
+T39	Location 2586 2593	Maindee
+T40	Organisation 333 339	police
+T41	Organisation 1669 1675	police
+T16	Misc 73 97	community Police officer
+T5	Date 139 147	late 90s
+T45	Date 148 153	2000s
+T46	Date 311 323	14 years ago
+#T6	AnnotatorNotes T6	http://www.wikidata.org/entity/Q15243879
+#T9	AnnotatorNotes T9	http://www.wikidata.org/entity/Q15243879
+#T13	AnnotatorNotes T13	http://www.wikidata.org/entity/Q101254
+#T15	AnnotatorNotes T15	https://www.wikidata.org/wiki/Q6456601
+#T20	AnnotatorNotes T20	http://www.wikidata.org/entity/Q15243879
+#T23	AnnotatorNotes T23	http://www.wikidata.org/entity/Q131491
+#T24	AnnotatorNotes T24	https://www.wikidata.org/wiki/Q6456601
+#T31	AnnotatorNotes T31	http://www.wikidata.org/entity/Q15243879
+#T33	AnnotatorNotes T33	http://www.wikidata.org/entity/Q15243879
+#T35	AnnotatorNotes T35	http://www.wikidata.org/entity/Q1860
+#T39	AnnotatorNotes T39	http://www.wikidata.org/entity/Q15243879
+#T40	AnnotatorNotes T40	http://www.wikidata.org/entity/Q35535
+#T41	AnnotatorNotes T41	http://www.wikidata.org/entity/Q35535
+R1	occupation Arg1:T3 Arg2:T16	
+R2	affiliation Arg1:T3 Arg2:T4	
+R3	affiliation Arg1:T11 Arg2:T12	
+R4	work_location Arg1:T11 Arg2:T13	
+R5	work_location Arg1:T19 Arg2:T20	
+R6	affiliation Arg1:T28 Arg2:T29	
+R7	work_location Arg1:T30 Arg2:T31	

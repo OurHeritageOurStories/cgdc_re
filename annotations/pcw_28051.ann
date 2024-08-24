@@ -1,0 +1,11 @@
+T1	Location 0 10	Caernarfon
+#1	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q428829
+T2	Location 13 28	Eisteddfod Maes
+#2	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q85783095
+T3	Date 30 34	1959
+T4	Location 59 83	National Eisteddfod Maes
+#3	AnnotatorNotes T4	https://www.wikidata.org/wiki/Q85783095
+T5	Date 87 102	6th August 1959
+R1	point_in_time Arg1:T2 Arg2:T3	
+R2	point_in_time Arg1:T4 Arg2:T5	
+R3	point_in_time Arg1:T1 Arg2:T3	

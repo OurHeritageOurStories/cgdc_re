@@ -1,0 +1,14 @@
+T1	Location 51 72	Redruth Parish Church
+#1	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q116874592
+T2	Location 87 94	St Euny
+T3	Location 104 125	Redruth parish church
+#3	AnnotatorNotes T3	https://www.wikidata.org/wiki/Q116874592
+T4	Location 151 160	Cart Brea
+#4	AnnotatorNotes T4	https://www.wikidata.org/wiki/Q5043749
+T5	Location 198 215	Thames Embankment
+#5	AnnotatorNotes T5	https://www.wikidata.org/wiki/Q1251243
+T6	Date 308 312	1150
+T7	Location 322 332	Gloucester
+#6	AnnotatorNotes T7	https://www.wikidata.org/wiki/Q170497
+R1	location_in Arg1:T2 Arg2:T4	
+R2	location_in Arg1:T3 Arg2:T4	

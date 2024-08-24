@@ -1,0 +1,13 @@
+T1	Person 9 29	William Henry Thomas
+T2	Person 48 68	William Henry Thomas
+T3	Location 74 87	Pontarddulais
+#1	AnnotatorNotes T3	https://www.wikidata.org/wiki/Q3397684
+T4	Organisation 111 137	Second Devonshire Regiment
+#2	AnnotatorNotes T4	https://www.wikidata.org/wiki/Q8338604
+T5	Misc 161 180	Battle of the Somme
+#3	AnnotatorNotes T5	https://www.wikidata.org/wiki/Q132568
+T6	Person 479 491	Gladys Jones
+R1	residence Arg1:T2 Arg2:T3	
+T7	Misc 94 101	Private
+R2	occupation Arg1:T2 Arg2:T7	
+R3	member_of Arg1:T2 Arg2:T4	

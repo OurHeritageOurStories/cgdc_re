@@ -1,0 +1,12 @@
+T1	Organisation 61 64	MyW
+T2	Misc 5 24	National Eisteddfod
+T3	Location 25 35	Caerphilly
+T4	Organisation 0 4	Urdd
+T5	Date 49 53	2015
+#T1	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q6818465
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q2745177
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q748065
+#T4	AnnotatorNotes T4	http://www.wikidata.org/entity/Q3399436
+R1	location Arg1:T2 Arg2:T3	
+R2	participant Arg1:T2 Arg2:T4	
+R3	point_in_time Arg1:T2 Arg2:T5	

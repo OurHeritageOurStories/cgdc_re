@@ -1,0 +1,7 @@
+T1	Location 48 53	B3315
+T2	Location 61 74	Boskenna turn
+T3	Location 81 90	St Buryan
+#1	AnnotatorNotes T3	https://www.wikidata.org/wiki/Q652930
+#2	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q89035834
+T4	Misc 0 6	Celtic
+R1	location_in Arg1:T1 Arg2:T2	

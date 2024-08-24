@@ -1,0 +1,14 @@
+T3	Location 58 67	Vicksburg
+T4	Location 87 97	Beaver Dam
+T5	Location 99 108	Wisconsin
+T6	Date 110 122	25 July 1863
+T7	Person 138 144	John's
+T8	Location 315 324	Vicksburg
+T1	Person 12 40	Corporal John Griffith Jones
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q493787
+#T4	AnnotatorNotes T4	http://www.wikidata.org/entity/Q1570610
+#T5	AnnotatorNotes T5	http://www.wikidata.org/entity/Q1537
+#T7	AnnotatorNotes T7	http://www.wikidata.org/entity/Q56179591
+#T8	AnnotatorNotes T8	http://www.wikidata.org/entity/Q493787
+#T1	AnnotatorNotes T1	http://www.wikidata.org/entity/Q56179591
+R1	location_in Arg1:T4 Arg2:T5	

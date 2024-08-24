@@ -1,0 +1,7 @@
+T1	Location 0 8	Caerleon
+#1	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q1009261
+T2	Location 63 71	Caerleon
+#2	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q1009261
+T3	Date 79 93	summer of 2012
+T4	Location 111 139	Lodge Hill iron age hillfort
+R1	location_in Arg1:T4 Arg2:T2	

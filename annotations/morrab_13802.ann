@@ -1,0 +1,6 @@
+T1	Location 33 49	St. Ives Harbour
+#1	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q105814190
+T2	Location 51 64	Cornish Coast
+T3	Organisation 87 105	St. Ives Fishermen
+#2	AnnotatorNotes T3	https://www.wikidata.org/wiki/Q724182
+R1	location_in Arg1:T1 Arg2:T2	

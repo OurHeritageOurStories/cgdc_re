@@ -1,0 +1,20 @@
+T1	Location 0 23	Church of Saint Brynach
+T2	Location 25 34	Llanboidy
+T3	Location 35 58	Church of Saint Brynach
+T4	Misc 60 75	Grade II listed
+#1	AnnotatorNotes T4	Named category?
+T5	Location 88 97	Llanboidy
+T6	Location 125 134	Llanboidy
+T7	Misc 168 176	Wicipics
+T8	Organisation 214 230	Creative Commons
+T9	Misc 231 251	CC BY-SA 3.0 Licence
+#T1	AnnotatorNotes T1	http://www.wikidata.org/entity/Q29502554
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q6661117
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q29502554
+#T4	AnnotatorNotes T4	http://www.wikidata.org/entity/Q15700834
+#T5	AnnotatorNotes T5	http://www.wikidata.org/entity/Q6661117
+#T6	AnnotatorNotes T6	http://www.wikidata.org/entity/Q6661117
+#T7	AnnotatorNotes T7	http://www.wikidata.org/entity/Q101553389
+#T8	AnnotatorNotes T8	http://www.wikidata.org/entity/Q43449
+#2	AnnotatorNotes T9	https://www.wikidata.org/wiki/Q14946043
+R1	location_in Arg1:T1 Arg2:T2	

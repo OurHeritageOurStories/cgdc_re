@@ -1,0 +1,5 @@
+T1	Location 0 15	Llanwrin church
+T2	Location 42 57	Llanwrin church
+T3	Person 75 93	Edward Jones Evans
+T4	Person 98 106	Margaret
+R1	spouse Arg1:T3 Arg2:T4	

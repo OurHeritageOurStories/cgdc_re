@@ -1,0 +1,99 @@
+T1	Location 0 23	Roath Conservative Club
+T2	Location 25 33	Tredegar
+T3	Location 34 57	Roath Conservative Club
+T4	Location 83 91	Tredegar
+T5	Misc 117 125	Wicipics
+T6	Organisation 163 179	Creative Commons
+T7	Misc 180 200	CC BY-SA 3.0 Licence
+T8	Misc 331 340	Picture 1
+T10	Misc 913 922	Picture 3
+T11	Misc 1204 1213	Picture 4
+T12	Misc 1495 1504	Picture 5
+T13	Misc 1786 1795	Picture 6
+T14	Misc 2077 2086	Picture 7
+T15	Misc 2368 2377	Picture 8
+T16	Misc 2659 2668	Picture 9
+T17	Misc 2950 2960	Picture 10
+T18	Misc 3242 3252	Picture 11
+T19	Misc 3534 3544	Picture 12
+T20	Misc 3826 3836	Picture 13
+T21	Misc 4118 4128	Picture 14
+T22	Person 345 360	No Swan So Fine
+T23	Person 636 651	No Swan So Fine
+T24	Person 927 942	No Swan So Fine
+T25	Person 1218 1233	No Swan So Fine
+T26	Person 1509 1524	No Swan So Fine
+T27	Person 1800 1815	No Swan So Fine
+T28	Person 2091 2106	No Swan So Fine
+T29	Person 2382 2397	No Swan So Fine
+T30	Person 2673 2688	No Swan So Fine
+T31	Person 2965 2980	No Swan So Fine
+T32	Person 3257 3272	No Swan So Fine
+T33	Person 3549 3564	No Swan So Fine
+T34	Person 3841 3856	No Swan So Fine
+T35	Person 4133 4148	No Swan So Fine
+T36	Organisation 362 371	Wikimedia
+T37	Organisation 653 662	Wikimedia
+T38	Organisation 944 953	Wikimedia
+T39	Organisation 1235 1244	Wikimedia
+T40	Organisation 1526 1535	Wikimedia
+T41	Organisation 1817 1826	Wikimedia
+T42	Organisation 2108 2117	Wikimedia
+T43	Organisation 2399 2408	Wikimedia
+T44	Organisation 2690 2699	Wikimedia
+T45	Organisation 2982 2991	Wikimedia
+T46	Organisation 3274 3283	Wikimedia
+T47	Organisation 3566 3575	Wikimedia
+T48	Organisation 3858 3867	Wikimedia
+T49	Organisation 4150 4159	Wikimedia
+#T1	AnnotatorNotes T1	http://www.wikidata.org/entity/Q104804861
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q1529978
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q104804861
+#T4	AnnotatorNotes T4	http://www.wikidata.org/entity/Q1529978
+#T5	AnnotatorNotes T5	http://www.wikidata.org/entity/Q101553389
+#T6	AnnotatorNotes T6	http://www.wikidata.org/entity/Q43449
+#T36	AnnotatorNotes T36	http://www.wikidata.org/entity/Q180
+#T37	AnnotatorNotes T37	http://www.wikidata.org/entity/Q180
+#T38	AnnotatorNotes T38	http://www.wikidata.org/entity/Q180
+#T39	AnnotatorNotes T39	http://www.wikidata.org/entity/Q180
+#T40	AnnotatorNotes T40	http://www.wikidata.org/entity/Q180
+#T41	AnnotatorNotes T41	http://www.wikidata.org/entity/Q180
+#T42	AnnotatorNotes T42	http://www.wikidata.org/entity/Q180
+#T43	AnnotatorNotes T43	http://www.wikidata.org/entity/Q180
+#T44	AnnotatorNotes T44	http://www.wikidata.org/entity/Q180
+#T45	AnnotatorNotes T45	http://www.wikidata.org/entity/Q180
+#T46	AnnotatorNotes T46	http://www.wikidata.org/entity/Q180
+#T47	AnnotatorNotes T47	http://www.wikidata.org/entity/Q180
+#T48	AnnotatorNotes T48	http://www.wikidata.org/entity/Q180
+#T49	AnnotatorNotes T49	http://www.wikidata.org/entity/Q180
+#1	AnnotatorNotes T7	https://www.wikidata.org/wiki/Q14946043
+T9	Misc 622 631	Picture 2
+R1	location_in Arg1:T1 Arg2:T2	
+R2	notable_work Arg1:T22 Arg2:T8	
+R3	notable_work Arg1:T23 Arg2:T9	
+R4	notable_work Arg1:T24 Arg2:T10	
+R5	notable_work Arg1:T35 Arg2:T21	
+R6	notable_work Arg1:T34 Arg2:T20	
+R7	notable_work Arg1:T33 Arg2:T19	
+R8	notable_work Arg1:T32 Arg2:T18	
+R9	notable_work Arg1:T31 Arg2:T17	
+R10	notable_work Arg1:T30 Arg2:T16	
+R11	notable_work Arg1:T29 Arg2:T15	
+R12	notable_work Arg1:T28 Arg2:T14	
+R13	notable_work Arg1:T27 Arg2:T13	
+R14	notable_work Arg1:T26 Arg2:T12	
+R15	notable_work Arg1:T25 Arg2:T11	
+R16	member_of Arg1:T22 Arg2:T36	
+R17	member_of Arg1:T23 Arg2:T37	
+R18	member_of Arg1:T35 Arg2:T49	
+R19	member_of Arg1:T34 Arg2:T48	
+R20	member_of Arg1:T33 Arg2:T47	
+R21	member_of Arg1:T32 Arg2:T46	
+R22	member_of Arg1:T31 Arg2:T45	
+R23	member_of Arg1:T30 Arg2:T44	
+R24	member_of Arg1:T29 Arg2:T43	
+R25	member_of Arg1:T28 Arg2:T42	
+R26	member_of Arg1:T27 Arg2:T41	
+R27	member_of Arg1:T26 Arg2:T40	
+R28	member_of Arg1:T25 Arg2:T39	
+R29	member_of Arg1:T24 Arg2:T38	

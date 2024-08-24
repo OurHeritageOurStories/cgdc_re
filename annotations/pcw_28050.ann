@@ -1,0 +1,10 @@
+T1	Misc 0 15	Kidwelly Castle
+#1	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q23703471
+T2	Person 17 26	David Cox
+#2	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q1174087
+T3	Date 28 32	1783
+T5	Location 74 104	Newport Museum and Art Gallery
+#3	AnnotatorNotes T5	https://www.wikidata.org/wiki/Q15262183
+T4	Date 33 37	1859
+R1	date_of_birth Arg1:T2 Arg2:T3	
+R2	date_of_death Arg1:T2 Arg2:T4	

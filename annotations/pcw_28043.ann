@@ -1,0 +1,6 @@
+T1	Person 12 26	Nicholas Condy
+T2	Date 27 31	1831
+T3	Location 73 103	Newport Museum and Art Gallery
+#1	AnnotatorNotes T3	https://www.wikidata.org/wiki/Q15262183
+T4	Misc 0 11	The Cobbler
+R1	inception Arg1:T4 Arg2:T2	

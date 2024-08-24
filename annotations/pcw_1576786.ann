@@ -1,0 +1,18 @@
+T1	Person 0 12	Nico Poulton
+T2	Misc 15 48	Minecraft Your Museum Competition
+T3	Date 49 53	2020
+T4	Misc 69 116	The &#39;Minecraft Your Museum&#39; Competition
+T5	Misc 205 214	Minecraft
+T6	Organisation 249 264	Amgueddfa Cymru
+T7	Organisation 267 288	National Museum Wales
+T8	Misc 300 317	COVID-19 lockdown
+T9	Person 425 437	Nico Poulton
+T10	Organisation 443 469	Y Bont Faen Primary School
+T11	Person 527 531	Nico
+#T5	AnnotatorNotes T5	http://www.wikidata.org/entity/Q49740
+#T6	AnnotatorNotes T6	http://www.wikidata.org/entity/Q2046319
+#T7	AnnotatorNotes T7	http://www.wikidata.org/entity/Q2046319
+#T8	AnnotatorNotes T8	http://www.wikidata.org/entity/Q87866152
+R1	point_in_time Arg1:T2 Arg2:T3	
+R2	participant_in Arg1:T1 Arg2:T2	
+R3	member_of Arg1:T9 Arg2:T10	

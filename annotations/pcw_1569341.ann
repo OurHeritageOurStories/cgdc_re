@@ -1,0 +1,22 @@
+T1	Person 0 15	Gruffudd Parry'
+T2	Person 43 54	Daniel Owen
+T3	Location 59 64	Flint
+T4	Misc 65 75	Eisteddfod
+T5	Date 76 80	1969
+T6	Date 183 187	1969
+T7	Misc 172 182	Eisteddfod
+T8	Location 166 171	Flint
+T9	Person 150 161	Daniel Owen
+T10	Person 107 121	Gruffudd Parry
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q3395446
+#T3	AnnotatorNotes T3	https://www.wikidata.org/wiki/Q1428848
+#T4	AnnotatorNotes T4	http://www.wikidata.org/entity/Q670265
+#T7	AnnotatorNotes T7	http://www.wikidata.org/entity/Q670265
+#T8	AnnotatorNotes T8	https://www.wikidata.org/wiki/Q1428848
+#T9	AnnotatorNotes T9	http://www.wikidata.org/entity/Q3395446
+#T10	AnnotatorNotes T10	https://www.wikidata.org/wiki/Q13128783
+#1	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q13128783
+R1	location Arg1:T4 Arg2:T3	
+R2	point_in_time Arg1:T4 Arg2:T5	
+R3	location Arg1:T7 Arg2:T8	
+R4	point_in_time Arg1:T7 Arg2:T6	

@@ -1,0 +1,16 @@
+T1	Organisation 21 61	Central Trade Union of Importers of Coal
+T2	Location 65 71	France
+#1	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q142
+T3	Location 173 179	France
+#2	AnnotatorNotes T3	https://www.wikidata.org/wiki/Q142
+T4	Organisation 301 341	Central Trade Union of Importers of Coal
+T5	Location 345 351	France
+#3	AnnotatorNotes T5	https://www.wikidata.org/wiki/Q142
+T6	Misc 416 422	French
+#4	AnnotatorNotes T6	https://www.wikidata.org/wiki/Q142
+T7	Organisation 353 408	Central Committee of Manufacturers of coal agglomerates
+T8	Organisation 113 169	Syndicat central des N'gociants Importateurs de charbons
+T9	Organisation 181 255	Comit' central des Fabricants d'agglom'r's de houille du Littoral Fran'ais
+R1	work_location Arg1:T4 Arg2:T5	
+R2	work_location Arg1:T1 Arg2:T2	
+R3	work_location Arg1:T8 Arg2:T3	

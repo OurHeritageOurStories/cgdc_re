@@ -1,0 +1,18 @@
+T1	Person 0 19	William Lewis Jones
+T2	Person 63 82	William Lewis Jones
+T3	Organisation 21 25	RAMC
+#1	AnnotatorNotes T3	https://www.wikidata.org/wiki/Q516446
+T4	Location 92 103	Crickhowell
+#2	AnnotatorNotes T4	https://www.wikidata.org/wiki/Q2536016
+T5	Date 107 111	1883
+T6	Location 123 133	Llansamlet
+#3	AnnotatorNotes T6	https://www.wikidata.org/wiki/Q6661746
+T7	Organisation 183 207	Royal Army Medical Corps
+#4	AnnotatorNotes T7	https://www.wikidata.org/wiki/Q516446
+T8	Date 214 223	July 1915
+T9	Date 227 240	February 1919
+R1	place_of_birth Arg1:T2 Arg2:T4	
+R2	date_of_birth Arg1:T2 Arg2:T5	
+T10	Misc 139 149	platelayer
+R3	occupation Arg1:T2 Arg2:T10	
+R4	work_location Arg1:T2 Arg2:T6	

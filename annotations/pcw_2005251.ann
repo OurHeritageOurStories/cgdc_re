@@ -1,0 +1,10 @@
+T1	Person 0 15	Graham The Bear
+T2	Person 36 42	Graham
+T3	Organisation 101 120	Goldie Lookin Chain
+#1	AnnotatorNotes T3	https://www.wikidata.org/wiki/Q4039563
+T4	Location 17 35	TJ's in the Square
+#2	AnnotatorNotes T4	https://www.wikidata.org/wiki/Q16897354
+T5	Location 124 142	TJ's in the Square
+#3	AnnotatorNotes T5	https://www.wikidata.org/wiki/Q16897354
+T6	Date 146 150	2010
+R1	affiliation Arg1:T2 Arg2:T3	

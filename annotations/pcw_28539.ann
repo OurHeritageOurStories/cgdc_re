@@ -1,0 +1,23 @@
+T1	Person 0 19	Ernest Henry Balsom
+T2	Location 29 44	Morval Cemetery
+#1	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q2199408
+T3	Location 49 72	Morval British Cemetery
+#2	AnnotatorNotes T3	https://www.wikidata.org/wiki/Q2199408
+T4	Location 86 92	France
+#3	AnnotatorNotes T4	https://www.wikidata.org/wiki/Q142
+T5	Location 112 117	Arras
+#4	AnnotatorNotes T5	https://www.wikidata.org/wiki/Q131329
+T6	Misc 131 138	British
+#5	AnnotatorNotes T6	https://www.wikidata.org/wiki/Q23666
+T7	Misc 154 160	German
+#6	AnnotatorNotes T7	https://www.wikidata.org/wiki/Q183
+T8	Person 199 221	Lt Ernest Henry Balsom
+T9	Location 225 235	Caerphilly
+#7	AnnotatorNotes T9	https://www.wikidata.org/wiki/Q909119
+T10	Date 255 269	30 August 1918
+T11	Organisation 293 307	Welsh Regiment
+#8	AnnotatorNotes T11	https://www.wikidata.org/wiki/Q7980559
+R1	date_of_death Arg1:T8 Arg2:T10	
+R2	residence Arg1:T8 Arg2:T9	
+R3	member_of Arg1:T8 Arg2:T11	
+R4	location_in Arg1:T3 Arg2:T4	

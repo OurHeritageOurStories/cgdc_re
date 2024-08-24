@@ -1,0 +1,46 @@
+T1	Location 0 16	Aberglaslyn Pass
+T2	Date 17 23	c.1890
+T3	Location 33 49	Aberglaslyn Pass
+T4	Location 51 56	Wales
+T5	Date 71 79	ca. 1890
+T6	Date 84 92	ca. 1900
+T7	Organisation 171 193	Detroit Publishing Co.
+T8	Location 225 232	Detroit
+T9	Location 234 238	Mich
+T10	Organisation 242 270	Detroit Photographic Company
+T11	Date 272 276	1905
+T12	Location 353 358	Wales
+T13	Misc 366 393	Photochrom print collection
+T14	Location 410 415	Wales
+T15	Location 417 433	Aberglaslyn Pass
+T16	Location 556 575	Library of Congress
+T17	Location 577 608	Prints and Photographs Division
+T18	Location 610 626	Washington, D.C.
+T19	Location 633 636	USA
+T20	Location 719 724	Wales
+T21	Misc 773 800	Photochrom Print Collection
+T22	Date 473 477	1890
+T23	Date 478 482	1900
+#T1	AnnotatorNotes T1	http://www.wikidata.org/entity/Q4667101
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q4667101
+#T4	AnnotatorNotes T4	http://www.wikidata.org/entity/Q25
+#T7	AnnotatorNotes T7	http://www.wikidata.org/entity/Q3391589
+#T8	AnnotatorNotes T8	http://www.wikidata.org/entity/Q12439
+#T9	AnnotatorNotes T9	https://www.wikidata.org/wiki/Q1166
+#T10	AnnotatorNotes T10	http://www.wikidata.org/entity/Q110280196
+#T12	AnnotatorNotes T12	http://www.wikidata.org/entity/Q25
+#T14	AnnotatorNotes T14	http://www.wikidata.org/entity/Q25
+#T15	AnnotatorNotes T15	http://www.wikidata.org/entity/Q4667101
+#T16	AnnotatorNotes T16	http://www.wikidata.org/entity/Q131454
+#T17	AnnotatorNotes T17	http://www.wikidata.org/entity/Q66812256
+#T18	AnnotatorNotes T18	http://www.wikidata.org/entity/Q61
+#T19	AnnotatorNotes T19	http://www.wikidata.org/entity/Q30
+#T20	AnnotatorNotes T20	http://www.wikidata.org/entity/Q25
+R1	point_in_time Arg1:T1 Arg2:T2	
+R2	location_in Arg1:T3 Arg2:T4	
+R3	location_in Arg1:T8 Arg2:T9	
+R4	location_in Arg1:T15 Arg2:T14	
+R5	location_in Arg1:T16 Arg2:T17	
+R6	location_in Arg1:T17 Arg2:T18	
+R7	depicts Arg1:T13 Arg2:T12	
+R8	location_in Arg1:T18 Arg2:T19	

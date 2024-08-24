@@ -1,0 +1,8 @@
+T1	Location 0 10	Caernarfon
+#1	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q428829
+T2	Date 12 16	1961
+T3	Location 37 47	Caernarfon
+#2	AnnotatorNotes T3	https://www.wikidata.org/wiki/Q428829
+T4	Date 51 60	June 1961
+R1	point_in_time Arg1:T1 Arg2:T2	
+R2	point_in_time Arg1:T3 Arg2:T4	

@@ -1,0 +1,10 @@
+T1	Person 16 39	Frederick George Swaish
+#1	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q19921912
+T2	Date 40 44	1880
+T4	Location 86 116	Newport Museum and Art Gallery
+#2	AnnotatorNotes T4	https://www.wikidata.org/wiki/Q15262183
+T5	Misc 0 15	Puritan Soldier
+#3	AnnotatorNotes T5	https://www.wikidata.org/wiki/Q119809446
+T3	Date 45 49	1930
+R1	date_of_birth Arg1:T1 Arg2:T2	
+R2	date_of_death Arg1:T1 Arg2:T3	

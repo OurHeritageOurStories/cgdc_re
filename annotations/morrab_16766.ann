@@ -1,0 +1,9 @@
+T1	Organisation 0 12	Midland Bank
+#1	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q994112
+T2	Location 37 49	Green Market
+T3	Location 51 59	Penzance
+#2	AnnotatorNotes T3	https://www.wikidata.org/wiki/Q208209
+T4	Organisation 69 78	HSBC Bank
+#3	AnnotatorNotes T4	https://www.wikidata.org/wiki/Q5413890
+#4	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q116887767
+R1	location_in Arg1:T2 Arg2:T3	

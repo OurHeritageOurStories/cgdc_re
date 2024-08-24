@@ -1,0 +1,5 @@
+T1	Location 0 12	CRD CLUBOUSE
+T2	Person 40 54	E. S. Rowlands
+T3	Misc 56 75	Building Contractor
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q63755054
+R1	occupation Arg1:T2 Arg2:T3	

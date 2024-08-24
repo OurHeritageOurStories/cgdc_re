@@ -1,0 +1,119 @@
+T1	Person 0 12	David Street
+T2	Date 29 33	2022
+T3	Date 66 70	1832
+T4	Location 84 95	Hobbs Point
+T5	Location 271 282	Hobbs Point
+T6	Location 178 191	Pembroke Dock
+#1	AnnotatorNotes T6	https://www.wikidata.org/wiki/Q784824
+T7	Person 416 430	Nicholas Hobbs
+T8	Location 432 443	Hobbs Point
+T9	Date 467 472	1830s
+T10	Location 536 541	Wales
+#2	AnnotatorNotes T10	https://www.wikidata.org/wiki/Q3094812
+T11	Location 546 555	Waterford
+#3	AnnotatorNotes T11	https://www.wikidata.org/wiki/Q183551
+T12	Location 559 566	Ireland
+#4	AnnotatorNotes T12	https://www.wikidata.org/wiki/Q22890
+T13	Date 590 594	1750
+T14	Date 614 618	1966
+T15	Location 651 662	Hobbs Point
+T16	Date 683 687	1848
+T17	Location 711 718	Neyland
+#5	AnnotatorNotes T17	https://www.wikidata.org/wiki/Q1939963
+T18	Person 760 783	Isambard Kingdom Brunel
+#6	AnnotatorNotes T18	https://www.wikidata.org/wiki/Q207380
+T19	Location 786 807	Great Western Railway
+#7	AnnotatorNotes T19	https://www.wikidata.org/wiki/Q843251
+T20	Date 851 858	1855-56
+T22	Location 888 895	Neyland
+#8	AnnotatorNotes T22	https://www.wikidata.org/wiki/Q1939963
+T23	Location 1240 1247	Neyland
+#9	AnnotatorNotes T23	https://www.wikidata.org/wiki/Q1939963
+T24	Location 984 991	Neyland
+#10	AnnotatorNotes T24	https://www.wikidata.org/wiki/Q1939963
+T25	Location 1705 1712	Neyland
+#11	AnnotatorNotes T25	https://www.wikidata.org/wiki/Q1939963
+T26	Location 2341 2348	Neyland
+#12	AnnotatorNotes T26	https://www.wikidata.org/wiki/Q1939963
+T27	Location 931 940	Waterford
+#13	AnnotatorNotes T27	https://www.wikidata.org/wiki/Q183551
+T28	Location 945 949	Cork
+#14	AnnotatorNotes T28	https://www.wikidata.org/wiki/Q36647
+T29	Location 953 960	Ireland
+#15	AnnotatorNotes T29	https://www.wikidata.org/wiki/Q22890
+T30	Location 1062 1071	Fishguard
+#16	AnnotatorNotes T30	https://www.wikidata.org/wiki/Q1018730
+T31	Location 1092 1097	Irish
+#17	AnnotatorNotes T31	https://www.wikidata.org/wiki/Q22890
+T32	Misc 1136 1152	Beeching reports
+#18	AnnotatorNotes T32	https://www.wikidata.org/wiki/Q814018
+T33	Date 1185 1189	1964
+T34	Location 1249 1260	Hobbs Point
+T35	Location 1336 1353	Pembroke Dockyard
+#19	AnnotatorNotes T35	https://www.wikidata.org/wiki/Q24204847
+T36	Organisation 1532 1542	Royal Navy
+#20	AnnotatorNotes T36	https://www.wikidata.org/wiki/Q172771
+T37	Location 1687 1700	Pembroke Dock
+#21	AnnotatorNotes T37	https://www.wikidata.org/wiki/Q784824
+T38	Date 1729 1733	1923
+T39	Misc 1739 1752	Lady Magdalen
+T40	Location 1829 1842	Cleddau River
+#22	AnnotatorNotes T40	https://www.wikidata.org/wiki/Q851348
+T41	Misc 1885 1898	Cleddau Queen
+T42	Misc 1903 1915	Cleddau King
+T43	Location 1931 1945	Hancock’s Yard
+T44	Location 1949 1962	Pembroke Dock
+#23	AnnotatorNotes T44	https://www.wikidata.org/wiki/Q784824
+T45	Location 1993 2007	Cleddau Bridge
+#24	AnnotatorNotes T45	https://www.wikidata.org/wiki/Q5131038
+T46	Date 2025 2029	1975
+T47	Misc 2087 2100	Cleddau Queen
+T48	Misc 2127 2139	Cleddau King
+T49	Misc 2149 2160	Porta Ferry
+T50	Location 2191 2207	Northern Ireland
+#25	AnnotatorNotes T50	https://www.wikidata.org/wiki/Q26
+T51	Location 2244 2259	Strangford loch
+#26	AnnotatorNotes T51	https://www.wikidata.org/wiki/Q937070
+T52	Location 2385 2396	Hobbs Point
+T53	Location 2406 2420	Cleddau Bridge
+#27	AnnotatorNotes T53	https://www.wikidata.org/wiki/Q5131038
+T54	Location 2466 2477	Hobbs point
+T55	Location 2511 2524	Cleddau River
+#28	AnnotatorNotes T55	https://www.wikidata.org/wiki/Q851348
+T56	Location 2558 2580	Milford Haven Waterway
+#29	AnnotatorNotes T56	https://www.wikidata.org/wiki/Q166885
+T57	Location 2698 2711	Pembroke Dock
+#30	AnnotatorNotes T57	https://www.wikidata.org/wiki/Q784824
+T58	Location 2963 2976	Pembroke Dock
+#31	AnnotatorNotes T58	https://www.wikidata.org/wiki/Q784824
+T59	Location 2716 2724	Rosslare
+#32	AnnotatorNotes T59	https://www.wikidata.org/wiki/Q2167772
+T60	Location 2753 2760	Ireland
+#33	AnnotatorNotes T60	https://www.wikidata.org/wiki/Q22890
+T61	Misc 2808 2814	Brexit
+#34	AnnotatorNotes T61	https://www.wikidata.org/wiki/Q7888194
+T62	Misc 2820 2843	Isle of Inishmore ferry
+#35	AnnotatorNotes T62	https://www.wikidata.org/wiki/Q11706355
+T63	Misc 2872 2883	Blue Star 1
+#36	AnnotatorNotes T63	https://www.wikidata.org/wiki/Q52347656
+T64	Location 2952 2961	Fishguard
+#37	AnnotatorNotes T64	https://www.wikidata.org/wiki/Q1018730
+T65	Location 3003 3010	Ireland
+#38	AnnotatorNotes T65	https://www.wikidata.org/wiki/Q22890
+T66	Organisation 3019 3021	EU
+#39	AnnotatorNotes T66	https://www.wikidata.org/wiki/Q458
+T67	Misc 14 27	'Connections'
+R1	inception Arg1:T8 Arg2:T9	
+R2	inception Arg1:T39 Arg2:T38	
+R3	inception Arg1:T45 Arg2:T46	
+R4	notable_work Arg1:T18 Arg2:T19	
+R5	operating_area Arg1:T39 Arg2:T40	
+R6	operating_area Arg1:T49 Arg2:T50	
+R7	location_in Arg1:T43 Arg2:T44	
+R8	location_in Arg1:T54 Arg2:T55	
+R9	point_in_time Arg1:T67 Arg2:T2	
+R10	location_in Arg1:T11 Arg2:T12	
+R11	location_in Arg1:T27 Arg2:T29	
+R12	location_in Arg1:T28 Arg2:T29	
+R13	location_in Arg1:T23 Arg2:T34	
+R14	location_in Arg1:T64 Arg2:T58	

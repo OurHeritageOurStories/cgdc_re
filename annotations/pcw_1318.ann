@@ -1,0 +1,16 @@
+T1	Person 0 12	Dibyendu Dey
+T2	Person 61 73	Dibyendu Dey
+T3	Person 155 163	Purnendu
+T4	Person 168 180	Dubyendu Dey
+T5	Location 186 193	Kolkata
+T6	Location 195 200	India
+T7	Organisation 226 263	St Fagan's National Museum of History
+T8	Date 267 271	2009
+#1	AnnotatorNotes T7	https://www.wikidata.org/wiki/Q1954765
+#T5	AnnotatorNotes T5	http://www.wikidata.org/entity/Q1348
+#T6	AnnotatorNotes T6	http://www.wikidata.org/entity/Q668
+R1	location_in Arg1:T5 Arg2:T6	
+R2	place_of_birth Arg1:T4 Arg2:T5	
+R3	place_of_birth Arg1:T3 Arg2:T5	
+R4	affiliation Arg1:T3 Arg2:T7	
+R5	affiliation Arg1:T4 Arg2:T7	

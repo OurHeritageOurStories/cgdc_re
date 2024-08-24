@@ -1,0 +1,15 @@
+T1	Location 0 32	Heath High Level railway station
+T2	Location 34 41	Cardiff
+T3	Location 42 74	Heath High Level railway station
+T4	Location 95 102	Cardiff
+T5	Misc 128 136	Wicipics
+T6	Organisation 174 190	Creative Commons
+T7	Misc 191 211	CC BY-SA 3.0 Licence
+#T1	AnnotatorNotes T1	http://www.wikidata.org/entity/Q2735955
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q10690
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q2735955
+#T4	AnnotatorNotes T4	http://www.wikidata.org/entity/Q10690
+#T5	AnnotatorNotes T5	http://www.wikidata.org/entity/Q101553389
+#T6	AnnotatorNotes T6	http://www.wikidata.org/entity/Q43449
+#1	AnnotatorNotes T7	https://www.wikidata.org/wiki/Q14946043
+R1	location_in Arg1:T1 Arg2:T2	

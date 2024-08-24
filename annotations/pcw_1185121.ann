@@ -1,0 +1,21 @@
+T1	Organisation 18 29	Robertson's
+T2	Misc 30 52	Golden Shred marmalade
+T3	Date 54 58	1919
+T4	Date 66 77	27 May 1919
+T6	Misc 299 306	U-Boats
+T7	Person 310 318	TYRWHITT
+T8	Person 277 283	BEATTY
+T9	Misc 250 262	Battle Fleet
+T10	Misc 383 396	War Marmalade
+T11	Misc 468 490	Golden Shred Marmalade
+T12	Organisation 592 616	The Cambria Daily Leader
+T13	Date 618 629	27 May 1919
+T5	Misc 107 129	Golden Shred marmalade
+#T1	AnnotatorNotes T1	http://www.wikidata.org/entity/Q7352077
+#T6	AnnotatorNotes T6	https://www.wikidata.org/wiki/Q428661
+#T7	AnnotatorNotes T7	https://www.wikidata.org/wiki/Q3508104
+#T8	AnnotatorNotes T8	https://www.wikidata.org/wiki/Q335013
+#T9	AnnotatorNotes T9	https://www.wikidata.org/wiki/Q55605019
+#T12	AnnotatorNotes T12	http://www.wikidata.org/entity/Q29047341
+R1	notable_work Arg1:T1 Arg2:T2	
+R2	inception Arg1:T2 Arg2:T3	

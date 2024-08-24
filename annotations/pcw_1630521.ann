@@ -1,0 +1,35 @@
+T1	Date 39 43	2020
+T2	Location 24 37	Overton Beach
+T3	Person 143 153	Ceri Evans
+T4	Misc 159 174	Reserve Officer
+T5	Organisation 184 222	Wildlife Trust of South and West Wales
+T6	Person 224 228	Ceri
+T7	Location 252 265	Overton Beach
+T8	Location 273 288	Gower Peninsula
+T9	Date 332 346	September 2020
+T10	Person 348 352	Ceri
+T11	Location 1142 1155	overton beach
+T12	Organisation 1161 1199	Wildlife Trust of South and West Wales
+T13	Location 1226 1243	South Gower coast
+T14	Location 1245 1252	Overton
+T15	Date 1284 1303	15th September 2020
+T16	Location 1927 1940	Overton Beach
+T17	Location 2004 2017	Overton Beach
+T18	Misc 1418 1429	Triggerfish
+T19	Misc 0 11	Triggerfish
+T20	Misc 1983 1994	Triggerfish
+T21	Misc 1906 1917	Triggerfish
+#T5	AnnotatorNotes T5	http://www.wikidata.org/entity/Q8001329
+#T8	AnnotatorNotes T8	http://www.wikidata.org/entity/Q1141148
+#T12	AnnotatorNotes T12	http://www.wikidata.org/entity/Q8001329
+#T14	AnnotatorNotes T14	http://www.wikidata.org/entity/Q7114024
+#T18	AnnotatorNotes T18	http://www.wikidata.org/entity/Q504796
+#T19	AnnotatorNotes T19	http://www.wikidata.org/entity/Q504796
+#T20	AnnotatorNotes T20	http://www.wikidata.org/entity/Q504796
+#T21	AnnotatorNotes T21	http://www.wikidata.org/entity/Q504796
+R1	occupation Arg1:T3 Arg2:T4	
+R2	member_of Arg1:T3 Arg2:T5	
+R3	work_location Arg1:T6 Arg2:T7	
+R5	work_location Arg1:T12 Arg2:T13	
+R6	location_in Arg1:T13 Arg2:T14	
+R4	location_in Arg1:T7 Arg2:T8	

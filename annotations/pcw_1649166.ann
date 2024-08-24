@@ -1,0 +1,17 @@
+T2	Location 0 23	No.1, Belle Vue Terrace
+T3	Location 25 34	Aberaeron
+T4	Location 87 96	Aberaeron
+T5	Location 35 57	No.1 Belle Vue Terrace
+T6	Misc 59 74	Grade II listed
+T7	Misc 122 130	Wicipics
+T8	Organisation 168 184	Creative Commons
+T9	Misc 185 205	CC BY-SA 3.0 Licence
+#1	AnnotatorNotes T6	Named category?
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q1765460
+#T4	AnnotatorNotes T4	http://www.wikidata.org/entity/Q1765460
+#T5	AnnotatorNotes T5	http://www.wikidata.org/entity/Q29488640
+#T6	AnnotatorNotes T6	http://www.wikidata.org/entity/Q15700834
+#T7	AnnotatorNotes T7	http://www.wikidata.org/entity/Q101553389
+#T8	AnnotatorNotes T8	http://www.wikidata.org/entity/Q43449
+#2	AnnotatorNotes T9	https://www.wikidata.org/wiki/Q14946043
+R1	location_in Arg1:T2 Arg2:T3	

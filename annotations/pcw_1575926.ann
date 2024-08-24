@@ -1,0 +1,8 @@
+T1	Misc 0 9	Face Mask
+T2	Person 13 22	Catherine
+T3	Misc 24 32	COVID 19
+T4	Date 34 38	2020
+T5	Person 190 207	Catherine Clapham
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q84263196
+R1	notable_work Arg1:T2 Arg2:T1	
+R2	point_in_time Arg1:T1 Arg2:T4	

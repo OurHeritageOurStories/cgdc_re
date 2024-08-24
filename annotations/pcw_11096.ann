@@ -1,0 +1,16 @@
+T1	Location 0 12	The Orangery
+T2	Location 14 28	Tredegar House
+T3	Location 30 37	Newport
+T4	Date 39 46	c. 1700
+T5	Date 81 99	early 18th century
+T6	Location 101 113	the Orangery
+T7	Date 176 188	18th century
+T8	Location 286 294	orangery
+T9	Person 408 414	Morgan
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q7837467
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q101254
+#T9	AnnotatorNotes T9	https://www.wikidata.org/wiki/Q27839530
+R1	location_in Arg1:T1 Arg2:T2	
+R2	location_in Arg1:T2 Arg2:T3	
+R4	inception Arg1:T6 Arg2:T5	
+R3	point_in_time Arg1:T1 Arg2:T4	

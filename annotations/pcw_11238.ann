@@ -1,0 +1,14 @@
+T1	Misc 1 13	Lanfey Court
+T3	Date 57 68	1 June 1810
+T4	Organisation 82 107	Longman Hurst Rees & Orme
+T5	Location 109 127	Paternoster Street
+T6	Location 129 135	London
+T2	Person 19 36	Sir Richard Hoare
+#T6	AnnotatorNotes T6	http://www.wikidata.org/entity/Q84
+#T2	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q2363258
+#1	AnnotatorNotes T4	https://www.wikidata.org/wiki/Q911673
+#2	AnnotatorNotes T5	https://www.wikidata.org/wiki/Q11698324
+R1	notable_work Arg1:T2 Arg2:T1	
+R2	inception Arg1:T1 Arg2:T3	
+R3	work_location Arg1:T4 Arg2:T5	
+R4	location_in Arg1:T5 Arg2:T6	

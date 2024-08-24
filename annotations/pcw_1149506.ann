@@ -1,0 +1,14 @@
+T1	Misc 0 19	National Sports Day
+T2	Organisation 20 23	MyW
+T3	Location 24 35	Machynlleth
+T4	Date 36 40	2014
+T5	Location 61 71	Ceredigion
+T6	Location 53 59	Beulah
+#1	AnnotatorNotes T6	https://www.wikidata.org/wiki/Q3402099
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q1432100
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q675460
+#T5	AnnotatorNotes T5	http://www.wikidata.org/entity/Q217829
+R1	point_in_time Arg1:T1 Arg2:T4	
+R2	participant_in Arg1:T2 Arg2:T1	
+R3	location Arg1:T1 Arg2:T3	
+R4	location_in Arg1:T6 Arg2:T5	

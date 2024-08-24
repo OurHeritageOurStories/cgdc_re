@@ -1,0 +1,7 @@
+T1	Misc 0 13	Ash Wednesday
+#1	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q123542
+T2	Location 46 61	Bolitho Gardens
+T3	Location 65 75	Wherrytown
+#2	AnnotatorNotes T3	https://www.wikidata.org/wiki/Q7993516
+T4	Location 77 88	Bijou House
+R1	location_in Arg1:T2 Arg2:T3	

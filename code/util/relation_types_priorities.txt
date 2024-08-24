@@ -1,0 +1,17 @@
+Misc-Misc	depicts
+Misc-Location	location > depicts; location > operating_area
+Misc-Organisation	depicts
+Misc-Date	point_in_time > inception
+Misc-Person	depicts
+Location-Location	location_in
+Location-Date	point_in_time > inception
+Organisation-Misc	notable_work > participant_in
+Organisation-Location	work_location
+Organisation-Organisation	affiliation > partnership_with
+Organisation-Date	inception
+Organisation-Person	significant_person
+Person-Misc	notable_work > participant_in; notable_work > occupation
+Person-Location	place_of_birth > residence > work_location > notable_work
+Person-Organisation	affiliation > member_of > employer
+Person-Date	date_of_birth > date_of_death
+Person-Person	spouse > significant_person > employer

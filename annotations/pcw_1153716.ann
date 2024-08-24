@@ -1,0 +1,10 @@
+T1	Organisation 8 28	Extinction Rebellion
+T2	Organisation 37 57	Extinction Rebellion
+#1	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q58819597
+#2	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q58819597
+T3	Location 0 7	Cardiff
+#3	AnnotatorNotes T3	https://www.wikidata.org/wiki/Q10690
+T4	Location 29 36	Cardiff
+#4	AnnotatorNotes T4	https://www.wikidata.org/wiki/Q10690
+R1	work_location Arg1:T1 Arg2:T3	
+R2	work_location Arg1:T2 Arg2:T4	

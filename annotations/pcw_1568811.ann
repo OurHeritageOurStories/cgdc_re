@@ -1,0 +1,14 @@
+T1	Misc 0 19	National Eisteddfod
+T2	Misc 67 86	National Eisteddfod
+T3	Date 20 24	1972
+T4	Date 87 91	1972
+T5	Location 26 39	Haverfordwest
+T6	Location 93 106	Haverfordwest
+#T1	AnnotatorNotes T1	http://www.wikidata.org/entity/Q2745177
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q2745177
+#T5	AnnotatorNotes T5	http://www.wikidata.org/entity/Q990103
+#T6	AnnotatorNotes T6	http://www.wikidata.org/entity/Q990103
+R1	point_in_time Arg1:T1 Arg2:T3	
+R2	location Arg1:T1 Arg2:T5	
+R3	point_in_time Arg1:T2 Arg2:T4	
+R4	location Arg1:T2 Arg2:T6	

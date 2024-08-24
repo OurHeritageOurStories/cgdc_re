@@ -1,0 +1,20 @@
+T1	Misc 0 19	Rainbows in Windows
+T2	Person 23 28	Bella
+T3	Person 33 37	Beau
+T4	Date 39 49	April 2020
+T5	Location 55 60	Wales
+T6	Location 69 71	UK
+T7	Organisation 202 205	NHS
+T8	Person 248 253	Bella
+T9	Person 258 262	Beau
+T10	Person 281 293	Chris Thomas
+#T2	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q792453
+#T3	AnnotatorNotes T3	https://www.wikidata.org/wiki/Q19962582
+#T5	AnnotatorNotes T5	http://www.wikidata.org/entity/Q25
+#T6	AnnotatorNotes T6	http://www.wikidata.org/entity/Q145
+#T7	AnnotatorNotes T7	http://www.wikidata.org/entity/Q918396
+#T8	AnnotatorNotes T8	https://www.wikidata.org/wiki/Q792453
+#T9	AnnotatorNotes T9	https://www.wikidata.org/wiki/Q19962582
+R1	notable_work Arg1:T2 Arg2:T1	
+R2	notable_work Arg1:T3 Arg2:T1	
+R3	inception Arg1:T1 Arg2:T4	

@@ -1,0 +1,10 @@
+T1	Location 0 24	Cowbridge Grammar School
+#1	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q5179611
+T2	Location 44 68	Cowbridge Grammar School
+#2	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q5179611
+T3	Location 26 36	Church St.
+T4	Location 70 80	Church St.
+T5	Date 37 42	1950s
+T6	Date 81 86	1950s
+R1	location_in Arg1:T1 Arg2:T3	
+R2	location_in Arg1:T2 Arg2:T4	

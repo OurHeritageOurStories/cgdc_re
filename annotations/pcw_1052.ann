@@ -1,0 +1,10 @@
+T1	Location 31 45	Foesidoes farm
+T2	Location 47 53	Casgob
+T3	Location 55 65	Presteigne
+T4	Date 67 81	9 October 1953
+T5	Person 98 111	Geoff Charles
+#T2	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q13126874
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q2532363
+#T5	AnnotatorNotes T5	http://www.wikidata.org/entity/Q5534081
+R1	location_in Arg1:T1 Arg2:T2	
+R2	location_in Arg1:T2 Arg2:T3	

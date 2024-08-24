@@ -1,0 +1,28 @@
+T1	Location 0 5	Ypres
+T2	Location 23 33	Carmarthen
+T3	Date 37 41	1915
+T4	Person 45 56	Harry White
+T5	Date 58 72	12 August 1915
+T8	Location 173 178	Ypres
+T9	Location 145 150	Ypres
+T10	Organisation 234 253	Corporations Houses
+T11	Person 295 306	Harry White
+T12	Organisation 314 349	1st Battalion of the Welch Regiment
+T13	Location 355 362	Belgium
+T14	Person 379 391	Lucy Jenkins
+T15	Person 397 402	White
+T16	Location 407 426	Llangunnor Vicarage
+T17	Location 428 438	Carmarthen
+T18	Organisation 184 208	Maisons des Corporations
+T7	Date 113 120	1914-15
+#T1	AnnotatorNotes T1	http://www.wikidata.org/entity/Q102728
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q835835
+#T8	AnnotatorNotes T8	http://www.wikidata.org/entity/Q102728
+#T9	AnnotatorNotes T9	http://www.wikidata.org/entity/Q102728
+#T13	AnnotatorNotes T13	http://www.wikidata.org/entity/Q31
+#T15	AnnotatorNotes T15	https://www.wikidata.org/wiki/Q1215200
+#T17	AnnotatorNotes T17	http://www.wikidata.org/entity/Q835835
+#1	AnnotatorNotes T12	https://www.wikidata.org/wiki/Q7980559
+R1	member_of Arg1:T11 Arg2:T12	
+R2	residence Arg1:T14 Arg2:T16	
+R3	location_in Arg1:T16 Arg2:T17	

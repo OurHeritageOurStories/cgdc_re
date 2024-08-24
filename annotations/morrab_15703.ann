@@ -1,0 +1,10 @@
+T1	Location 0 10	BoscawenUn
+#1	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q894360
+T2	Misc 11 21	Bronze Age
+#2	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q11761
+T3	Location 49 59	St. Buryan
+#3	AnnotatorNotes T3	https://www.wikidata.org/wiki/Q652930
+T4	Misc 83 98	Cornish Gorsedd
+#4	AnnotatorNotes T4	https://www.wikidata.org/wiki/Q20826063
+T5	Date 99 103	1928
+R1	point_in_time Arg1:T4 Arg2:T5	

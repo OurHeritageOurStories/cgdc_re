@@ -1,0 +1,38 @@
+T1	Organisation 0 20	Bangor Football Club
+T2	Date 22 26	1893
+T3	Date 30 34	1890
+T4	Location 71 77	Bangor
+T5	Organisation 85 96	The Lancers
+T6	Organisation 113 129	Bangor Athletics
+T7	Organisation 223 236	Bangor Rovers
+T8	Organisation 245 265	Bangor Football Club
+T9	Date 309 313	1914
+T10	Person 326 338	R. B. Watson
+T11	Person 351 358	J. Owen
+T12	Person 376 388	E. R. Thomas
+T13	Person 401 411	S. Willman
+T14	Person 423 431	G. Parry
+T15	Person 449 457	R. Jones
+T16	Person 469 481	T. Hampshire
+T17	Person 507 517	J. Roberts
+T18	Person 532 543	T. Buckland
+T19	Person 563 574	Alex Hughes
+T20	Person 583 593	J. Stewart
+T21	Person 612 624	D. Pritchard
+T22	Person 638 650	G. R. Thomas
+T23	Person 675 683	D. Jones
+T24	Person 698 708	E. P. Owen
+#T1	AnnotatorNotes T1	http://www.wikidata.org/entity/Q806549
+#T4	AnnotatorNotes T4	http://www.wikidata.org/entity/Q234178
+#T8	AnnotatorNotes T8	http://www.wikidata.org/entity/Q806549
+T25	Misc 340 348	Linesman
+T28	Misc 413 420	Captain
+T30	Misc 459 466	referee
+T31	Misc 483 492	Secretary
+R1	work_location Arg1:T5 Arg2:T4	
+R2	work_location Arg1:T6 Arg2:T4	
+R3	inception Arg1:T8 Arg2:T9	
+R4	occupation Arg1:T10 Arg2:T25	
+R5	occupation Arg1:T13 Arg2:T28	
+R6	occupation Arg1:T15 Arg2:T30	
+R7	occupation Arg1:T16 Arg2:T31	

@@ -1,0 +1,5 @@
+T1	Person 34 48	Ronnie Roberts
+T2	Location 312 317	Wales
+T3	Location 330 337	England
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q25
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q21

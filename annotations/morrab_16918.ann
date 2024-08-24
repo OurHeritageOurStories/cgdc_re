@@ -1,0 +1,21 @@
+T1	Location 10 21	Abbey Steps
+T2	Location 23 31	Penzance
+#1	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q208209
+T3	Date 66 79	Feb 13th 1906
+T4	Person 94 110	Miss Clara Hawes
+T5	Location 112 133	Polmenor sic Cottages
+T6	Location 135 142	Heamoor
+#2	AnnotatorNotes T6	https://www.wikidata.org/wiki/Q5691488
+T7	Person 183 189	Gladys
+T8	Organisation 213 234	S Hildesheimer and Co
+T9	Location 236 242	London
+#3	AnnotatorNotes T9	https://www.wikidata.org/wiki/Q84
+T10	Location 247 257	Manchester
+#4	AnnotatorNotes T10	https://www.wikidata.org/wiki/Q18125
+T11	Location 311 322	Abbey Steps
+T13	Misc 259 266	Cornish
+#5	AnnotatorNotes T13	https://www.wikidata.org/wiki/Q23148
+R1	location_in Arg1:T1 Arg2:T2	
+R2	location_in Arg1:T5 Arg2:T6	
+R3	work_location Arg1:T8 Arg2:T9	
+R4	work_location Arg1:T8 Arg2:T10	

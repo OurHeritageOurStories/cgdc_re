@@ -1,0 +1,48 @@
+T1	Person 0 21	General Horace Browne
+#1	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q75960697
+T2	Person 22 42	Horace Albert Browne
+#2	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q75960697
+T3	Person 47 56	Caldwells
+T4	Date 88 103	27th March 1831
+T5	Location 107 119	Market Rasen
+#3	AnnotatorNotes T5	https://www.wikidata.org/wiki/Q779603
+T6	Location 121 133	Lincolnshire
+#4	AnnotatorNotes T6	https://www.wikidata.org/wiki/Q23090
+T7	Person 152 171	Henry Albert Browne
+#5	AnnotatorNotes T7	https://www.wikidata.org/wiki/Q97581503
+T8	Person 176 206	Frances Margaret nee Nicholson
+T10	Organisation 223 235	British Army
+#6	AnnotatorNotes T10	https://www.wikidata.org/wiki/Q222595
+T11	Location 239 244	India
+#7	AnnotatorNotes T11	https://www.wikidata.org/wiki/Q668
+T12	Date 282 296	13th June 1852
+T13	Person 309 335	Louisa Fanny Algeo Moresby
+T14	Date 339 354	25th April 1857
+T15	Location 359 367	Calcutta
+#8	AnnotatorNotes T15	https://www.wikidata.org/wiki/Q1348
+T16	Location 369 375	Bengal
+#9	AnnotatorNotes T16	https://www.wikidata.org/wiki/Q80338
+T17	Location 377 382	India
+#10	AnnotatorNotes T17	https://www.wikidata.org/wiki/Q668
+T18	Person 385 391	Horace
+#11	AnnotatorNotes T18	https://www.wikidata.org/wiki/Q75960697
+T19	Misc 396 416	Commissioner of Pegu
+T20	Location 418 423	Burma
+#12	AnnotatorNotes T20	https://www.wikidata.org/wiki/Q836
+T21	Date 429 433	1878
+T22	Date 437 441	1880
+T23	Date 460 474	24th July 1880
+T24	Person 487 500	Marie Renault
+T25	Date 504 508	1884
+T26	Date 530 543	25th Jan 1914
+T27	Location 564 568	Nice
+#13	AnnotatorNotes T27	https://www.wikidata.org/wiki/Q33959
+T28	Location 570 576	France
+#14	AnnotatorNotes T28	https://www.wikidata.org/wiki/Q142
+R1	spouse Arg1:T7 Arg2:T8	
+R2	occupation Arg1:T18 Arg2:T19	
+R4	residence Arg1:T24 Arg2:T27	
+R3	location_in Arg1:T5 Arg2:T6	
+R5	location_in Arg1:T15 Arg2:T17	
+R6	location_in Arg1:T16 Arg2:T17	
+R7	location_in Arg1:T27 Arg2:T28	

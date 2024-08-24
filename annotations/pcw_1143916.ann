@@ -1,0 +1,12 @@
+T1	Location 0 7	Denbigh
+T2	Misc 8 27	National Eisteddfod
+T3	Date 28 32	2013
+T4	Person 33 51	Gaenor Morgan Rees
+T5	Location 78 101	Christian Aid  Bag Shop
+T6	Organisation 122 125	MyW
+#T1	AnnotatorNotes T1	http://www.wikidata.org/entity/Q1186888
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q2745177
+#1	AnnotatorNotes T4	https://www.wikidata.org/wiki/Q13128592
+#2	AnnotatorNotes T6	https://www.wikidata.org/wiki/Q6818465
+R1	point_in_time Arg1:T2 Arg2:T3	
+R2	location Arg1:T2 Arg2:T1	

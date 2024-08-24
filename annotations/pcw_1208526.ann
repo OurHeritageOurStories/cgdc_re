@@ -1,0 +1,130 @@
+T1	Location 47 60	Penylan House
+#1	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q29504291
+T2	Location 62 69	Cardiff
+#2	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q10690
+T3	Date 71 87	31 December 1992
+T4	Organisation 152 176	Jewish Home for the Aged
+T5	Location 178 189	South Wales
+#3	AnnotatorNotes T5	https://www.wikidata.org/wiki/Q1286223
+T6	Location 191 204	Monmouthshire
+#4	AnnotatorNotes T6	https://www.wikidata.org/wiki/Q207176
+T7	Location 209 224	West of England
+#5	AnnotatorNotes T7	https://www.wikidata.org/wiki/Q7987066
+T8	Location 247 260	Penylan House
+#6	AnnotatorNotes T8	https://www.wikidata.org/wiki/Q29504291
+T9	Location 262 274	Penylan Road
+T10	Location 276 283	Cardiff
+#7	AnnotatorNotes T10	https://www.wikidata.org/wiki/Q10690
+T11	Location 338 351	Penylan House
+#8	AnnotatorNotes T11	https://www.wikidata.org/wiki/Q29504291
+T12	Date 429 445	31 December 1992
+T13	Location 525 532	Cardiff
+#9	AnnotatorNotes T13	https://www.wikidata.org/wiki/Q10690
+T14	Organisation 548 569	Prosser & Co Pharmacy
+T15	Organisation 571 587	Curran Insurance
+T16	Organisation 589 608	Covers Dress Agency
+T17	Organisation 610 621	Bogod Group
+T18	Organisation 626 659	Frozen Food (South Wales) Limited
+T19	Person 780 787	Stewart
+T20	Person 792 808	Jackie Greenberg
+T21	Person 813 823	Laura-Jane
+T22	Person 825 829	Emma
+T23	Person 831 836	Jodie
+T24	Person 909 926	Prof. D. Weitzman
+T25	Person 953 966	Mrs M. Cantor
+T26	Person 990 1001	Mr H. Shatz
+T27	Person 1006 1024	Mr A. W. Blasebalk
+T28	Person 1054 1067	Mr F. Toffler
+T29	Person 1785 1799	David Weitzman
+T30	Misc 2123 2130	Yom Tov
+#10	AnnotatorNotes T30	https://www.wikidata.org/wiki/Q94920
+T31	Person 2172 2183	Rabbi Sacks
+#11	AnnotatorNotes T31	https://www.wikidata.org/wiki/Q336766
+T32	Organisation 2390 2400	Penfriends
+T33	Organisation 1639 1649	Penfriends
+T34	Organisation 2508 2518	Penfriends
+T35	Misc 2770 2795	Community Care Act (1990)
+#12	AnnotatorNotes T35	https://www.wikidata.org/wiki/Q75763918
+T36	Person 3063 3072	M. Cantor
+T37	Organisation 3077 3087	Penfriends
+T38	Person 3148 3160	Mimi Rapport
+T39	Person 3165 3176	Monty Marsh
+T40	Person 3327 3333	George
+T41	Person 3338 3347	Betty Fox
+T42	Date 3557 3561	1992
+T43	Organisation 3948 3955	Pencare
+T44	Organisation 3976 4005	The Trustees of Penylan House
+T45	Misc 4066 4072	Jewish
+T46	Location 4105 4112	Cardiff
+#14	AnnotatorNotes T46	https://www.wikidata.org/wiki/Q10690
+T47	Location 4162 4173	South Wales
+#15	AnnotatorNotes T47	https://www.wikidata.org/wiki/Q1286223
+T48	Location 4182 4197	West of England
+#16	AnnotatorNotes T48	https://www.wikidata.org/wiki/Q7987066
+T49	Organisation 4199 4206	Pencare
+T50	Organisation 4229 4239	Linc Cymru
+T51	Location 4270 4283	Penylan House
+#17	AnnotatorNotes T51	https://www.wikidata.org/wiki/Q29504291
+T52	Location 4316 4323	Cardiff
+#18	AnnotatorNotes T52	https://www.wikidata.org/wiki/Q10690
+T53	Misc 4334 4340	Jewish
+T54	Misc 4403 4409	Jewish
+T55	Person 4419 4434	Mr Henry Silver
+T56	Organisation 4460 4484	Cardiff Jewish community
+T57	Date 4531 4535	1946
+T58	Location 4539 4545	Canton
+#21	AnnotatorNotes T58	https://www.wikidata.org/wiki/Q5033865
+T59	Date 4550 4563	December 1948
+T60	Location 4583 4595	Holme Towers
+T61	Location 4599 4606	Penarth
+#22	AnnotatorNotes T61	https://www.wikidata.org/wiki/Q427792
+T62	Location 4715 4722	Penarth
+#23	AnnotatorNotes T62	https://www.wikidata.org/wiki/Q427792
+T63	Location 4805 4817	Penylan Road
+T64	Location 4821 4828	Cardiff
+#24	AnnotatorNotes T64	https://www.wikidata.org/wiki/Q10690
+T65	Organisation 4920 4933	Penylan House
+#25	AnnotatorNotes T65	https://www.wikidata.org/wiki/Q29504291
+T66	Date 4937 4950	February 1959
+T67	Organisation 5149 5195	Association of Jewish Ex-service Men and Women
+T68	Location 5197 5204	Cardiff
+#26	AnnotatorNotes T68	https://www.wikidata.org/wiki/Q10690
+T69	Date 5236 5246	March 1959
+T70	Organisation 5273 5291	Glamorgan Archives
+#27	AnnotatorNotes T70	https://www.wikidata.org/wiki/Q21776725
+T71	Misc 928 946	Honorary Secretary
+R1	occupation Arg1:T25 Arg2:T71	
+T72	Misc 968 983	Vice presidents
+R2	occupation Arg1:T26 Arg2:T72	
+R3	occupation Arg1:T27 Arg2:T72	
+T73	Misc 1029 1047	Honorary Treasurer
+R4	occupation Arg1:T28 Arg2:T73	
+T74	Misc 2159 2170	Chief Rabbi
+R5	occupation Arg1:T31 Arg2:T74	
+T75	Misc 2535 2548	Jewish Humour
+R6	work_location Arg1:T43 Arg2:T46	
+R7	partnership_with Arg1:T49 Arg2:T50	
+R8	member_of Arg1:T55 Arg2:T56	
+T76	Organisation 4510 4527	Home for the Aged
+R9	inception Arg1:T76 Arg2:T57	
+R10	location_of_formation Arg1:T76 Arg2:T58	
+R11	work_location Arg1:T4 Arg2:T8	
+R12	work_location Arg1:T14 Arg2:T13	
+R13	work_location Arg1:T15 Arg2:T13	
+R14	work_location Arg1:T16 Arg2:T13	
+R15	work_location Arg1:T17 Arg2:T13	
+R16	work_location Arg1:T18 Arg2:T13	
+R17	participant_in Arg1:T34 Arg2:T75	
+R18	member_of Arg1:T36 Arg2:T37	
+R19	member_of Arg1:T38 Arg2:T37	
+R20	member_of Arg1:T39 Arg2:T37	
+R21	notable_work Arg1:T49 Arg2:T51	
+T77	Misc 5126 5131	Cajex
+R22	depicts Arg1:T77 Arg2:T67	
+R23	work_location Arg1:T67 Arg2:T68	
+R24	founded_by Arg1:T76 Arg2:T55	
+R25	location_in Arg1:T1 Arg2:T2	
+R26	location_in Arg1:T9 Arg2:T10	
+R27	location_in Arg1:T8 Arg2:T10	
+R28	location_in Arg1:T60 Arg2:T61	
+R29	location_in Arg1:T63 Arg2:T64	

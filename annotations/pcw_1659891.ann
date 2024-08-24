@@ -1,0 +1,18 @@
+T1	Location 0 23	Newport railway station
+T2	Location 24 47	Newport railway station
+T3	Location 60 67	Newport
+T4	Location 69 74	Wales
+T5	Location 76 90	United Kingdom
+T6	Misc 116 124	Wicipics
+T7	Organisation 162 178	Creative Commons
+T8	Misc 179 199	CC BY-SA 3.0 Licence
+#T1	AnnotatorNotes T1	http://www.wikidata.org/entity/Q3397374
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q3397374
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q101254
+#T4	AnnotatorNotes T4	http://www.wikidata.org/entity/Q25
+#T5	AnnotatorNotes T5	http://www.wikidata.org/entity/Q145
+#T6	AnnotatorNotes T6	http://www.wikidata.org/entity/Q101553389
+#T7	AnnotatorNotes T7	http://www.wikidata.org/entity/Q43449
+#1	AnnotatorNotes T8	https://www.wikidata.org/wiki/Q14946043
+R1	location_in Arg1:T3 Arg2:T4	
+R2	location_in Arg1:T4 Arg2:T5	

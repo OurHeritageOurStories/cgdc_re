@@ -1,0 +1,14 @@
+T1	Organisation 0 18	Ocean Coal Company
+#1	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q52058336
+T2	Misc 19 28	Great War
+#2	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q361
+T3	Misc 49 58	Great War
+#3	AnnotatorNotes T3	https://www.wikidata.org/wiki/Q361
+T4	Organisation 110 129	Ocean Coal Company.
+#4	AnnotatorNotes T4	https://www.wikidata.org/wiki/Q52058336
+T5	Person 150 165	Mr D. L. Thomas
+T6	Organisation 186 208	Ocean Western Colliery
+T7	Location 210 219	Nantymoel
+#5	AnnotatorNotes T7	https://www.wikidata.org/wiki/Q6964400
+R1	member_of Arg1:T5 Arg2:T6	
+R2	work_location Arg1:T6 Arg2:T7	

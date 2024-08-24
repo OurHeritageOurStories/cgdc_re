@@ -1,0 +1,36 @@
+T1	Location 16 31	Caerau Hillfort
+#1	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q5016882
+T2	Organisation 32 38	RCAHMW
+#2	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q7374037
+T3	Location 75 90	Caerau Hillfort
+#3	AnnotatorNotes T3	https://www.wikidata.org/wiki/Q5016882
+T4	Location 92 95	Ely
+#4	AnnotatorNotes T4	https://www.wikidata.org/wiki/Q5368392
+T5	Location 97 112	Caerau hillfort
+#5	AnnotatorNotes T5	https://www.wikidata.org/wiki/Q5016882
+T6	Location 157 168	South Wales
+#6	AnnotatorNotes T6	https://www.wikidata.org/wiki/Q1286223
+T7	Misc 306 314	Iron Age
+#7	AnnotatorNotes T7	https://www.wikidata.org/wiki/Q11764
+T8	Location 338 353	Caerau hillfort
+#8	AnnotatorNotes T8	https://www.wikidata.org/wiki/Q5016882
+T9	Organisation 425 438	Silures tribe
+#9	AnnotatorNotes T9	https://www.wikidata.org/wiki/Q1127109
+T10	Location 466 471	Wales
+#10	AnnotatorNotes T10	https://www.wikidata.org/wiki/Q25
+T11	Organisation 498 504	Romans
+#11	AnnotatorNotes T11	https://www.wikidata.org/wiki/Q1651392
+T12	Organisation 526 544	Cardiff University
+#12	AnnotatorNotes T12	https://www.wikidata.org/wiki/Q1035745
+T14	Organisation 565 597	Ely and Caerau Communities First
+T15	Location 876 882	Caerau
+#15	AnnotatorNotes T15	https://www.wikidata.org/wiki/Q5016880
+T16	Location 887 890	Ely
+#16	AnnotatorNotes T16	https://www.wikidata.org/wiki/Q5368392
+T17	Misc 650 702	Caerau And Ely Rediscovering (CAER) Heritage Project
+T18	Location 966 990	Caerau Iron Age hillfort
+#17	AnnotatorNotes T18	https://www.wikidata.org/wiki/Q5016882
+R1	partnership_with Arg1:T12 Arg2:T14	
+R2	notable_work Arg1:T12 Arg2:T17	
+R3	location_in Arg1:T5 Arg2:T6	
+R4	location_in Arg1:T3 Arg2:T4	

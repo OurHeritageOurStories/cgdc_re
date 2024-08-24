@@ -1,0 +1,18 @@
+T1	Misc 205 225	CC BY-SA 3.0 Licence
+T2	Organisation 188 204	Creative Commons
+T3	Misc 142 150	Wicipics
+T4	Location 35 44	Aberaeron
+T6	Location 0 32	No.3 Greenland Terrace (Delfryn)
+T7	Location 45 77	No.3 Greenland Terrace (Delfryn)
+T9	Misc 79 94	Grade II listed
+#1	AnnotatorNotes T9	Named category?
+T10	Location 107 116	Aberaeron
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q43449
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q101553389
+#T4	AnnotatorNotes T4	http://www.wikidata.org/entity/Q1765460
+#T6	AnnotatorNotes T6	http://www.wikidata.org/entity/Q29488672
+#T7	AnnotatorNotes T7	http://www.wikidata.org/entity/Q29488672
+#T9	AnnotatorNotes T9	http://www.wikidata.org/entity/Q15700834
+#T10	AnnotatorNotes T10	http://www.wikidata.org/entity/Q1765460
+#2	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q14946043
+R1	location_in Arg1:T6 Arg2:T4	

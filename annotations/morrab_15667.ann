@@ -1,0 +1,10 @@
+T1	Misc 0 25	Penzance Theatre Playbill
+T2	Misc 47 53	Duenna
+#1	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q7731154
+T4	Location 88 96	Penzance
+#2	AnnotatorNotes T4	https://www.wikidata.org/wiki/Q208209
+T6	Location 117 130	Chapel Street
+#3	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q26436826
+T3	Location 75 86	New Theatre
+R1	location Arg1:T2 Arg2:T3	
+R2	location_in Arg1:T3 Arg2:T4	

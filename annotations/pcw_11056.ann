@@ -1,0 +1,14 @@
+T1	Person 0 18	Desiderius Erasmus
+T2	Misc 21 31	Colloquies
+T3	Person 48 65	William Gladstone
+T4	Date 87 92	1840s
+T5	Person 128 148	Samuel Powell Purser
+T7	Person 234 243	Gladstone
+T6	Date 169 230	the 11th day of July being Saturday in the year of grace 1840
+#T1	AnnotatorNotes T1	http://www.wikidata.org/entity/Q43499
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q19020085
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q160852
+#T7	AnnotatorNotes T7	http://www.wikidata.org/entity/Q160852
+R1	notable_work Arg1:T1 Arg2:T2	
+R2	participant_in Arg1:T3 Arg2:T2	
+R3	inception Arg1:T2 Arg2:T4	

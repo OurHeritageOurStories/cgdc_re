@@ -1,0 +1,11 @@
+T1	Organisation 13 30	Brice Whyte & Son
+T2	Misc 32 39	Coopers
+#1	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q38883
+T3	Person 48 69	Rev. Michael D. Jones
+T5	Date 71 82	12 May 1865
+T6	Misc 191 197	Mimosa
+T7	Location 202 211	Patagonia
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q5167942
+#T6	AnnotatorNotes T6	https://www.wikidata.org/wiki/Q2839107
+#T7	AnnotatorNotes T7	http://www.wikidata.org/entity/Q1507
+R1	operating_area Arg1:T6 Arg2:T7	

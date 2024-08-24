@@ -1,0 +1,27 @@
+T1	Misc 0 39	End of Year Records for Milk Production
+T2	Location 43 53	Penwenallt
+T3	Location 55 70	Newcastle Emlyn
+T4	Date 72 76	1917
+T5	Date 81 85	1919
+T6	Misc 90 128	End of Year Record for milk production
+T7	Location 132 147	Penwenallt farm
+T8	Date 151 155	1917
+T9	Person 169 181	R. L. Jones.
+T10	Misc 490 528	End of Year Record for milk production
+T11	Location 532 547	Penwenallt farm
+T12	Date 551 555	1919
+T13	Person 572 584	R. L. Jones.
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q29492351
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q2273077
+#1	AnnotatorNotes T7	http://www.wikidata.org/entity/Q29492351
+#2	AnnotatorNotes T11	http://www.wikidata.org/entity/Q29492351
+R1	location Arg1:T1 Arg2:T2	
+R2	location_in Arg1:T2 Arg2:T3	
+R3	point_in_time Arg1:T1 Arg2:T4	
+R4	point_in_time Arg1:T1 Arg2:T5	
+R5	location Arg1:T6 Arg2:T7	
+R6	point_in_time Arg1:T6 Arg2:T8	
+R7	location Arg1:T10 Arg2:T11	
+R8	point_in_time Arg1:T10 Arg2:T12	
+R9	notable_work Arg1:T9 Arg2:T6	
+R10	notable_work Arg1:T13 Arg2:T10	

@@ -1,0 +1,13 @@
+T1	Location 0 13	Monmouthshire
+T2	Misc 23 42	National Eisteddfod
+T3	Date 43 47	2016
+T4	Person 64 75	Jayne Lewis
+T5	Organisation 77 93	Heart Foundation
+T6	Person 120 132	Meryl Davies
+T7	Person 137 150	Tegwen Morris
+#T1	AnnotatorNotes T1	http://www.wikidata.org/entity/Q207176
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q2745177
+#T5	AnnotatorNotes T5	https://www.wikidata.org/wiki/Q4970039
+R1	location Arg1:T2 Arg2:T1	
+R2	point_in_time Arg1:T2 Arg2:T3	
+R3	member_of Arg1:T4 Arg2:T5	

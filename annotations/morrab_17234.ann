@@ -1,0 +1,14 @@
+T1	Location 8 17	Yacht Inn
+T2	Date 19 27	pre 1922
+T3	Location 29 37	Penzance
+#1	AnnotatorNotes T3	https://www.wikidata.org/wiki/Q208209
+T4	Location 75 84	Yacht Inn
+T5	Person 95 107	Francis Eddy
+T6	Date 194 198	1936
+T7	Person 212 225	Colin Drewitt
+T9	Location 279 292	Pascoes Court
+T11	Organisation 226 236	F.R.I.B.A.
+#2	AnnotatorNotes T11	https://www.wikidata.org/wiki/Q1067943
+R1	member_of Arg1:T7 Arg2:T11	
+R2	location_in Arg1:T1 Arg2:T3	
+R3	point_in_time Arg1:T1 Arg2:T2	

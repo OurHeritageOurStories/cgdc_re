@@ -1,0 +1,15 @@
+T1	Misc 0 9	Moving On
+T2	Misc 15 38	Middleton Estate Panels
+T3	Date 40 44	2019
+T4	Misc 59 68	Moving On
+T5	Misc 85 103	Middleton Memories
+T7	Date 165 169	2019
+T8	Location 292 324	National Botanic Garden of Wales
+T6	Location 129 161	National Botanic Garden of Wales
+#T8	AnnotatorNotes T8	http://www.wikidata.org/entity/Q3139233
+#T6	AnnotatorNotes T6	http://www.wikidata.org/entity/Q3139233
+R1	inception Arg1:T1 Arg2:T3	
+R3	described_by_source Arg1:T4 Arg2:T5	
+R4	location Arg1:T5 Arg2:T6	
+R5	point_in_time Arg1:T5 Arg2:T7	
+R2	depicts Arg1:T2 Arg2:T1	

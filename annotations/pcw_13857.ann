@@ -1,0 +1,11 @@
+T1	Person 13 23	Owen Owens
+T2	Person 64 75	Mr Griffith
+T3	Date 77 88	10 May 1865
+T4	Misc 185 191	Mimosa
+T5	Location 196 205	Patagonia
+T6	Misc 25 59	Chronometer, Watch and Clock Maker
+#1	AnnotatorNotes T6	https://www.wikidata.org/wiki/Q2700922
+#T4	AnnotatorNotes T4	https://www.wikidata.org/wiki/Q2839107
+#T5	AnnotatorNotes T5	http://www.wikidata.org/entity/Q1507
+R1	occupation Arg1:T1 Arg2:T6	
+R2	operating_area Arg1:T4 Arg2:T5	

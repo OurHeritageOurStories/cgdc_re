@@ -1,0 +1,9 @@
+T1	Location 17 35	St. Michaels Mount
+#1	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q1431121
+T2	Location 37 45	Penzance
+#2	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q208209
+T3	Location 77 95	Promenade Penzance
+#3	AnnotatorNotes T3	https://www.wikidata.org/wiki/Q104822257
+T4	Location 147 159	Jubilee Pool
+#4	AnnotatorNotes T4	https://www.wikidata.org/wiki/Q24662603
+R1	location_in Arg1:T1 Arg2:T2	

@@ -1,0 +1,18 @@
+T1	Location 18 22	Rhyl
+T2	Location 24 29	Wales
+T3	Date 31 37	c.1880
+T4	Location 12 16	Pier
+T5	Person 47 62	Francis Bedford
+T6	Date 64 68	1816
+T7	Date 71 75	1894
+T8	Date 84 91	c. 1880
+T9	Misc 128 160	National Media Museum Collection
+#T1	AnnotatorNotes T1	http://www.wikidata.org/entity/Q2020203
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q25
+#T4	AnnotatorNotes T4	https://www.wikidata.org/wiki/Q104437580
+#T5	AnnotatorNotes T5	http://www.wikidata.org/entity/Q3504712
+R1	location_in Arg1:T4 Arg2:T1	
+R2	location_in Arg1:T1 Arg2:T2	
+R3	point_in_time Arg1:T4 Arg2:T3	
+R4	date_of_birth Arg1:T5 Arg2:T6	
+R5	date_of_death Arg1:T5 Arg2:T7	

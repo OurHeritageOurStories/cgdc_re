@@ -1,0 +1,14 @@
+T1	Location 29 35	Gulval
+#1	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q5617932
+T2	Location 77 88	Blue Bridge
+T4	Location 90 96	Gulval
+#2	AnnotatorNotes T4	https://www.wikidata.org/wiki/Q5617932
+T5	Person 161 172	Qvenataucus
+T6	Person 186 193	Dinvius
+T7	Date 38 49	6th century
+T8	Misc 0 27	Bleu Bridge inscribed stone
+#3	AnnotatorNotes T8	https://www.wikidata.org/wiki/Q17644344
+T3	Location 69 73	Bleu
+R1	location Arg1:T8 Arg2:T1	
+R2	location_in Arg1:T3 Arg2:T4	
+R3	location_in Arg1:T2 Arg2:T4	

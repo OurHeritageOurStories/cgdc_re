@@ -1,0 +1,11 @@
+T1	Person 12 22	Trevithick
+T2	Location 40 45	Wales
+#1	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q1286223
+T3	Person 159 170	Trevithicks
+T4	Date 199 217	February 12th 1804
+T5	Location 223 233	Penydarren
+#2	AnnotatorNotes T5	https://www.wikidata.org/wiki/Q3406657
+T6	Location 237 246	Abercynon
+#3	AnnotatorNotes T6	https://www.wikidata.org/wiki/Q3404663
+T8	Organisation 286 301	Ivor Iron Works
+T9	Date 302 306	1839

@@ -1,0 +1,18 @@
+T3	Location 38 47	Aberaeron
+T6	Misc 86 101	Grade II listed
+#1	AnnotatorNotes T6	http://www.wikidata.org/entity/Q15700834
+T7	Location 114 123	Aberaeron
+T8	Misc 149 157	Wicipics
+T9	Organisation 195 211	Creative Commons
+T10	Misc 212 232	CC BY-SA 3.0 Licence
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q1765460
+#T6	AnnotatorNotes T6	http://www.wikidata.org/entity/Q15700834
+#T7	AnnotatorNotes T7	http://www.wikidata.org/entity/Q1765460
+#T8	AnnotatorNotes T8	http://www.wikidata.org/entity/Q101553389
+#T9	AnnotatorNotes T9	http://www.wikidata.org/entity/Q43449
+#2	AnnotatorNotes T10	https://www.wikidata.org/wiki/Q14946043
+T1	Location 0 36	No.5 Bridge Street (J.R.Evans & Co.)
+#3	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q29488648
+T2	Location 48 84	No.5 Bridge Street (J.R.Evans & Co.)
+#4	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q29488648
+R1	location_in Arg1:T1 Arg2:T3	

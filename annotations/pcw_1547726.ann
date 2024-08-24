@@ -1,0 +1,16 @@
+T1	Misc 0 19	Rainbows in Windows
+T2	Misc 21 29	Lockdown
+T3	Date 31 35	2020
+T4	Date 48 52	2020
+T5	Misc 53 61	lockdown
+T6	Misc 76 96	coronavirus pandemic
+T7	Location 131 136	Wales
+T8	Organisation 159 162	NHS
+T9	Person 301 314	Beckah Godden
+#T2	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q87866152
+#T5	AnnotatorNotes T5	https://www.wikidata.org/wiki/Q87866152
+#T6	AnnotatorNotes T6	http://www.wikidata.org/entity/Q81068910
+#T7	AnnotatorNotes T7	http://www.wikidata.org/entity/Q25
+#T8	AnnotatorNotes T8	http://www.wikidata.org/entity/Q918396
+R1	point_in_time Arg1:T2 Arg2:T3	
+R2	point_in_time Arg1:T5 Arg2:T4	

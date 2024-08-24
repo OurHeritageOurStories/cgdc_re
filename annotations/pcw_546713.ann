@@ -1,0 +1,106 @@
+T1	Misc 28 31	WW1
+#1	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q361
+T2	Misc 77 80	WW1
+#2	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q361
+T3	Misc 93 106	The Great War
+#3	AnnotatorNotes T3	https://www.wikidata.org/wiki/Q361
+T4	Date 107 111	1914
+T5	Date 114 118	1918
+T6	Person 179 191	P. U. Cooper
+T7	Organisation 193 207	Welch Regiment
+T8	Organisation 220 234	Welch Regiment
+#4	AnnotatorNotes T8	https://www.wikidata.org/wiki/Q7980559
+#5	AnnotatorNotes T7	https://www.wikidata.org/wiki/Q7980559
+T9	Organisation 325 339	Welch Regiment
+#6	AnnotatorNotes T9	https://www.wikidata.org/wiki/Q7980559
+T10	Organisation 533 547	Welch Regiment
+#7	AnnotatorNotes T10	https://www.wikidata.org/wiki/Q7980559
+T11	Organisation 559 573	Welch Regiment
+#8	AnnotatorNotes T11	https://www.wikidata.org/wiki/Q7980559
+T12	Organisation 626 640	Welch Regiment
+#9	AnnotatorNotes T12	https://www.wikidata.org/wiki/Q7980559
+T13	Organisation 685 699	Welch Regiment
+#10	AnnotatorNotes T13	https://www.wikidata.org/wiki/Q7980559
+T14	Organisation 654 668	Welsh Regiment
+#11	AnnotatorNotes T14	https://www.wikidata.org/wiki/Q7980559
+T15	Organisation 745 759	Welch Regiment
+#12	AnnotatorNotes T15	https://www.wikidata.org/wiki/Q7980559
+T16	Organisation 888 902	Welch Regiment
+#13	AnnotatorNotes T16	https://www.wikidata.org/wiki/Q7980559
+T17	Organisation 961 975	Welch Regiment
+#14	AnnotatorNotes T17	https://www.wikidata.org/wiki/Q7980559
+T18	Organisation 251 271	Royal Army Med Corps
+#15	AnnotatorNotes T18	https://www.wikidata.org/wiki/Q516446
+T19	Organisation 289 310	South Wales Borderers
+#16	AnnotatorNotes T19	https://www.wikidata.org/wiki/Q3492283
+T20	Organisation 775 796	South Wales Borderers
+#17	AnnotatorNotes T20	https://www.wikidata.org/wiki/Q3492283
+T21	Organisation 355 375	South Lancs Regiment
+#18	AnnotatorNotes T21	https://www.wikidata.org/wiki/Q7567789
+T22	Organisation 392 410	Bedfordshire Regt.
+#19	AnnotatorNotes T22	https://www.wikidata.org/wiki/Q4879246
+T23	Organisation 428 444	French Artillery
+T24	Organisation 462 479	20th London Regt.
+#20	AnnotatorNotes T24	https://www.wikidata.org/wiki/Q13948128
+T25	Organisation 495 519	Honourable Artillery Coy
+T26	Organisation 588 612	Northumberland Fusiliers
+#21	AnnotatorNotes T26	https://www.wikidata.org/wiki/Q4115291
+T27	Organisation 714 731	Machine Gun Corps
+#22	AnnotatorNotes T27	https://www.wikidata.org/wiki/Q6723656
+T28	Organisation 814 835	Royal Field Artillery
+#23	AnnotatorNotes T28	https://www.wikidata.org/wiki/Q7374174
+T29	Organisation 855 870	Royal Welch FVS
+T30	Organisation 919 943	Royal Garrison Artillery
+#24	AnnotatorNotes T30	https://www.wikidata.org/wiki/Q2171029
+T31	Organisation 990 1011	Royal Welch Fusiliers
+#25	AnnotatorNotes T31	https://www.wikidata.org/wiki/Q752760
+T32	Person 209 218	C.M. Dunn
+T33	Person 236 249	E. U. Edwards
+T34	Person 273 287	J. Fairweather
+T35	Person 312 323	J. A. Gibbs
+T36	Person 341 353	A. T. Gibson
+T37	Person 377 389	W. F. Graves
+T38	Person 411 426	R. V. de Guelis
+T39	Person 446 460	W. H. Hollyman
+T40	Person 480 493	E. V. Jenkins
+T41	Person 521 531	F. Johnson
+T42	Person 549 557	F. Jukes
+T43	Person 575 586	W. P. Kelly
+T44	Person 614 624	E. J. Lord
+T45	Person 642 652	J. Mathews
+T46	Person 670 683	J. E. Mathias
+T47	Person 701 712	J. H. Paton
+T48	Person 733 743	E. U. Rowe
+T49	Person 761 773	W. H. Seager
+T50	Person 798 812	F. O. Trechman
+T51	Person 837 853	E. W. Tregarthen
+T52	Person 872 886	G. I. Turnbull
+T53	Person 904 917	A. F. Whitley
+T54	Person 945 959	J. L. Williams
+T55	Person 977 988	W. Williams
+R1	member_of Arg1:T6 Arg2:T7	
+R2	member_of Arg1:T32 Arg2:T8	
+R3	member_of Arg1:T33 Arg2:T18	
+R4	member_of Arg1:T34 Arg2:T19	
+R5	member_of Arg1:T35 Arg2:T9	
+R6	member_of Arg1:T36 Arg2:T21	
+R7	member_of Arg1:T37 Arg2:T22	
+R8	member_of Arg1:T38 Arg2:T23	
+R9	member_of Arg1:T39 Arg2:T24	
+R10	member_of Arg1:T40 Arg2:T25	
+R11	member_of Arg1:T41 Arg2:T10	
+R12	member_of Arg1:T42 Arg2:T11	
+R13	member_of Arg1:T43 Arg2:T26	
+R14	member_of Arg1:T44 Arg2:T12	
+R15	member_of Arg1:T45 Arg2:T14	
+R16	member_of Arg1:T46 Arg2:T13	
+R17	member_of Arg1:T47 Arg2:T27	
+R18	member_of Arg1:T48 Arg2:T15	
+R19	member_of Arg1:T49 Arg2:T20	
+R20	member_of Arg1:T50 Arg2:T28	
+R21	member_of Arg1:T51 Arg2:T29	
+R22	member_of Arg1:T52 Arg2:T16	
+R23	member_of Arg1:T53 Arg2:T30	
+R24	member_of Arg1:T54 Arg2:T17	
+R25	member_of Arg1:T55 Arg2:T31	
+R26	point_in_time Arg1:T3 Arg2:T4	

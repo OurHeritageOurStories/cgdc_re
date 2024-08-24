@@ -1,0 +1,33 @@
+T1	Location 75 82	Newport
+T2	Person 83 94	Brian Selby
+T3	Misc 295 304	Christian
+T4	Person 430 435	Cyril
+T5	Person 440 454	Dorothy Summer
+T6	Location 475 489	No.2 Eton Road
+T7	Organisation 699 709	the Church
+T8	Organisation 787 797	the Church
+T12	Person 998 1003	Cyril
+T13	Person 1012 1017	Brian
+T14	Organisation 1049 1063	Iona Community
+T15	Location 1067 1074	Glasgow
+T16	Location 1076 1084	Scotland
+T17	Person 1126 1140	George McCloud
+T18	Person 1145 1150	Brian
+T19	Organisation 1198 1213	Community House
+T20	Organisation 1237 1252	Community House
+T9	Person 803 821	Rev. Cyril Summers
+#T1	AnnotatorNotes T1	http://www.wikidata.org/entity/Q101254
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q5043
+#T4	AnnotatorNotes T4	http://www.wikidata.org/entity/Q34997882
+#T7	AnnotatorNotes T7	http://www.wikidata.org/entity/Q34651
+#T8	AnnotatorNotes T8	http://www.wikidata.org/entity/Q34651
+#T12	AnnotatorNotes T12	http://www.wikidata.org/entity/Q34997882
+#T13	AnnotatorNotes T13	http://www.wikidata.org/entity/Q15930574
+#T14	AnnotatorNotes T14	http://www.wikidata.org/entity/Q1672043
+#T15	AnnotatorNotes T15	http://www.wikidata.org/entity/Q4093
+#T16	AnnotatorNotes T16	http://www.wikidata.org/entity/Q22
+#T18	AnnotatorNotes T18	http://www.wikidata.org/entity/Q15930574
+R1	work_location Arg1:T14 Arg2:T15	
+R2	location_in Arg1:T15 Arg2:T16	
+R3	residence Arg1:T5 Arg2:T6	
+R4	residence Arg1:T4 Arg2:T6	

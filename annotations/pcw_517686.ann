@@ -1,0 +1,8 @@
+T1	Organisation 46 71	Sandfields Branch Library
+#1	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q47516669
+T2	Location 73 86	Morrison Road
+T3	Location 88 98	Sandfields
+#2	AnnotatorNotes T3	https://www.wikidata.org/wiki/Q7416190
+T4	Date 102 106	1961
+R2	location_in Arg1:T2 Arg2:T3	
+R1	work_location Arg1:T1 Arg2:T2	

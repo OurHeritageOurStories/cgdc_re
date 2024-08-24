@@ -1,0 +1,14 @@
+T1	Location 0 7	Newtown
+T2	Misc 8 27	National Eisteddfod
+T3	Date 29 33	1965
+T4	Date 83 87	1965
+T5	Location 54 61	Newtown
+T6	Misc 62 81	National Eisteddfod
+#T1	AnnotatorNotes T1	http://www.wikidata.org/entity/Q669171
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q2745177
+#T5	AnnotatorNotes T5	http://www.wikidata.org/entity/Q669171
+#T6	AnnotatorNotes T6	http://www.wikidata.org/entity/Q2745177
+R1	location Arg1:T2 Arg2:T1	
+R2	point_in_time Arg1:T2 Arg2:T3	
+R3	location Arg1:T6 Arg2:T5	
+R4	point_in_time Arg1:T6 Arg2:T4	

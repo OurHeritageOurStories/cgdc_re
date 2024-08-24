@@ -1,0 +1,7 @@
+T1	Location 10 22	Nanjizal Bay
+#1	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q15260955
+T2	Location 24 32	Cornwall
+#2	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q23148
+T3	Location 110 119	Lands End
+#3	AnnotatorNotes T3	https://www.wikidata.org/wiki/Q169532
+R1	location_in Arg1:T1 Arg2:T2	

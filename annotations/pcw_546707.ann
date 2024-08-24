@@ -1,0 +1,7 @@
+T1	Location 27 40	Coal Exchange
+#1	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q2981060
+T2	Location 42 49	Cardiff
+#2	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q10690
+T3	Location 131 144	Cardiff docks
+#3	AnnotatorNotes T3	https://www.wikidata.org/wiki/Q5038407
+R1	location_in Arg1:T1 Arg2:T2	

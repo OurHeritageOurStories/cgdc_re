@@ -1,0 +1,12 @@
+T1	Location 36 43	Bagillt
+T2	Location 83 90	Bagillt
+T3	Location 92 102	Flintshire
+T4	Misc 110 118	lockdown
+#1	AnnotatorNotes T4	https://www.wikidata.org/wiki/Q87866152
+T5	Misc 11 19	lockdown
+#T1	AnnotatorNotes T1	http://www.wikidata.org/entity/Q3401133
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q3401133
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q505610
+#T4	AnnotatorNotes T4	http://www.wikidata.org/entity/Q223625
+#T5	AnnotatorNotes T5	https://www.wikidata.org/wiki/Q87866152
+R1	location_in Arg1:T2 Arg2:T3	

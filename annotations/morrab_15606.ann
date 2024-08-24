@@ -1,0 +1,7 @@
+T1	Location 51 68	St. Peters Church
+T3	Location 36 49	Newlyn Coombe
+#2	AnnotatorNotes T3	https://www.wikidata.org/wiki/Q13443285
+T4	Date 98 102	1866
+T2	Location 10 23	Newlyn Coombe
+R1	inception Arg1:T1 Arg2:T4	
+R2	location_in Arg1:T3 Arg2:T1	

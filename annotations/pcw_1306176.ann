@@ -1,0 +1,6 @@
+T1	Location 0 14	Darowen church
+T2	Person 15 25	Julia Gunn
+T3	Person 51 55	Hugh
+T4	Person 60 73	Emma Richards
+T5	Location 88 102	Darowen church
+R1	spouse Arg1:T3 Arg2:T4	

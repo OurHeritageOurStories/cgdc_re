@@ -1,0 +1,7 @@
+T1	Location 0 15	Brithdir Chapel
+#1	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q56186976
+T2	Location 16 28	New Tredegar
+#2	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q3402398
+T3	Person 98 110	Billy Rogers
+T4	Person 151 160	Alf Chard
+R1	location_in Arg1:T1 Arg2:T2	

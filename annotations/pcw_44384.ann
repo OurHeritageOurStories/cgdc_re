@@ -1,0 +1,9 @@
+T1	Location 21 34	Melin Bompren
+#1	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q16894987
+T2	Location 57 70	Melin Bompren
+#2	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q16894987
+T3	Location 85 94	St Fagans
+#3	AnnotatorNotes T3	https://www.wikidata.org/wiki/Q390036
+T4	Location 96 119	National History Museum
+#4	AnnotatorNotes T4	https://www.wikidata.org/wiki/Q1954765
+R1	location_in Arg1:T2 Arg2:T3	

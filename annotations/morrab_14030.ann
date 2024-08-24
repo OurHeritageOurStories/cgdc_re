@@ -1,0 +1,5 @@
+T1	Location 0 11	Sennen Cove
+#1	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q654239
+T2	Location 13 21	Cornwall
+#2	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q23148
+R1	location_in Arg1:T1 Arg2:T2	

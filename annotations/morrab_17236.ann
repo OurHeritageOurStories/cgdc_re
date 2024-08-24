@@ -1,0 +1,13 @@
+T1	Location 0 18	Old Dolphin Tavern
+T2	Location 20 29	Wharfside
+T3	Location 31 39	Penzance
+#1	AnnotatorNotes T3	https://www.wikidata.org/wiki/Q208209
+T4	Location 66 77	Quay Street
+T5	Location 79 87	Penzance
+#2	AnnotatorNotes T5	https://www.wikidata.org/wiki/Q208209
+T7	Location 131 145	Harbour Office
+T8	Location 170 182	Battery Road
+#3	AnnotatorNotes T7	https://www.wikidata.org/wiki/Q26435997
+R1	location_in Arg1:T1 Arg2:T3	
+R2	location_in Arg1:T2 Arg2:T3	
+R3	location_in Arg1:T4 Arg2:T5	

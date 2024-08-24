@@ -1,0 +1,11 @@
+T1	Misc 1 17	Cofiwch Dryweryn
+T2	Location 26 44	Blaenau Ffestiniog
+T3	Location 73 91	Blaenau Ffestiniog
+T4	Misc 46 62	Cofiwch Dryweryn
+T5	Person 102 112	Pôl Wilias
+#T1	AnnotatorNotes T1	http://www.wikidata.org/entity/Q20594046
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q881062
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q881062
+#T4	AnnotatorNotes T4	http://www.wikidata.org/entity/Q20594046
+R1	location Arg1:T1 Arg2:T2	
+R2	location Arg1:T4 Arg2:T3	

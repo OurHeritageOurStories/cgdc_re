@@ -1,0 +1,6 @@
+T1	Location 0 22	The House on the Props
+#1	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q26596711
+T2	Location 24 32	Polperro
+#2	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q1025780
+T3	Person 73 83	Anne Croft
+R1	location_in Arg1:T1 Arg2:T2	

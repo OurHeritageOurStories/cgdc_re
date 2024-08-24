@@ -1,0 +1,17 @@
+T1	Location 0 14	Dulas Cottages
+T2	Location 16 22	Ceinws
+T3	Location 23 36	Esgairgeiliog
+T4	Date 38 46	May 2004
+T5	Location 47 53	Ceinws
+T6	Location 54 67	Esgairgeiliog
+T7	Date 93 101	May 2004
+T8	Location 103 117	Dulas Cottages
+T9	Location 155 165	Park Dulas
+T10	Location 284 294	Era quarry
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q3406673
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q3406673
+#T5	AnnotatorNotes T5	http://www.wikidata.org/entity/Q3406673
+#T6	AnnotatorNotes T6	http://www.wikidata.org/entity/Q3406673
+R1	location_in Arg1:T1 Arg2:T2	
+R2	point_in_time Arg1:T1 Arg2:T4	
+R3	point_in_time Arg1:T5 Arg2:T7	

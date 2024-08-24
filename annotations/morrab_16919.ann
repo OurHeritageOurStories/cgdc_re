@@ -1,0 +1,12 @@
+T1	Location 10 27	Market Jew Street
+T2	Location 29 37	Penzance
+#1	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q208209
+T3	Person 116 124	J Salmon
+T4	Location 126 135	Sevenoaks
+#2	AnnotatorNotes T4	https://www.wikidata.org/wiki/Q939838
+T5	Location 187 199	Market House
+#3	AnnotatorNotes T5	https://www.wikidata.org/wiki/Q15248133
+T6	Location 226 243	Market Jew Street
+T7	Misc 143 155	Sepio Series
+R1	location_in Arg1:T1 Arg2:T2	
+R2	location_in Arg1:T5 Arg2:T6	

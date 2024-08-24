@@ -1,0 +1,26 @@
+T1	Person 0 16	Constance Browne
+T2	Person 17 40	Constance Amelia Browne
+T3	Person 66 74	Caldwell
+T4	Date 92 107	10th March 1833
+T5	Location 111 123	Market Rasen
+#1	AnnotatorNotes T5	https://www.wikidata.org/wiki/Q779603
+T6	Location 125 137	Lincolnshire
+#2	AnnotatorNotes T6	https://www.wikidata.org/wiki/Q23090
+T7	Person 162 181	Henry Albert Browne
+#3	AnnotatorNotes T7	https://www.wikidata.org/wiki/Q97581503
+T8	Person 186 212	Frances Margaret Nicholson
+T9	Person 214 223	Constance
+T10	Person 232 243	George Gibb
+T11	Location 247 254	Usselby
+#4	AnnotatorNotes T11	https://www.wikidata.org/wiki/Q7902126
+T12	Location 256 268	lincolsshire
+#5	AnnotatorNotes T12	https://www.wikidata.org/wiki/Q23090
+T13	Date 272 276	1857
+T14	Location 290 298	Cheshire
+#6	AnnotatorNotes T14	https://www.wikidata.org/wiki/Q23064
+T15	Date 302 317	29th. Sept 1910
+R1	spouse Arg1:T9 Arg2:T10	
+R2	place_of_marriage Arg1:T9 Arg2:T11	
+R3	spouse Arg1:T7 Arg2:T8	
+R4	location_in Arg1:T5 Arg2:T6	
+R5	location_in Arg1:T11 Arg2:T12	

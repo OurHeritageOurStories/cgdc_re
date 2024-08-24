@@ -1,0 +1,6 @@
+T1	Location 14 32	Penzance Promenade
+#1	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q104822257
+T2	Location 55 73	Penzance promenade
+#2	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q104822257
+T3	Misc 33 44	Great Storm
+R1	location Arg1:T3 Arg2:T2	

@@ -1,0 +1,13 @@
+T1	Location 33 43	Abercorris
+T2	Location 45 59	Cwmodyn quarry
+T3	Location 60 81	Graigfachddu Cottages
+T4	Location 83 93	Abercorris
+T5	Location 96 110	Cwmodyn quarry
+T6	Location 112 124	Upper Corris
+#T1	AnnotatorNotes T1	http://www.wikidata.org/entity/Q4666817
+#T4	AnnotatorNotes T4	http://www.wikidata.org/entity/Q4666817
+#T6	AnnotatorNotes T6	https://www.wikidata.org/wiki/Q5173016
+#1	AnnotatorNotes T2	http://www.wikidata.org/entity/Q4666817
+#2	AnnotatorNotes T5	http://www.wikidata.org/entity/Q4666817
+R1	location_in Arg1:T3 Arg2:T4	
+R2	location_in Arg1:T5 Arg2:T6	

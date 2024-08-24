@@ -1,0 +1,10 @@
+T1	Location 20 34	Navy Inn Court
+T2	Location 36 47	Newlyn Town
+#1	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q13443285
+T3	Location 86 94	Navy Inn
+T4	Date 110 116	193839
+T6	Misc 127 143	1936 Housing Act
+T7	Organisation 163 179	Penzance Council
+#2	AnnotatorNotes T6	https://www.wikidata.org/wiki/Q100164652
+#3	AnnotatorNotes T7	https://www.wikidata.org/wiki/Q104395394
+R1	location_in Arg1:T1 Arg2:T2	

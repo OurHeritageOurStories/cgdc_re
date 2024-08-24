@@ -1,0 +1,55 @@
+T1	Location 0 15	Kidwelly Castle
+T2	Location 17 27	Carmarthen
+T3	Location 29 34	Wales
+T4	Date 36 42	c.1890
+T5	Location 44 59	Kidwelly Castle
+T6	Location 61 71	Carmarthen
+T7	Location 73 78	Wales
+T8	Date 93 101	ca. 1890
+T9	Date 106 114	ca. 1900
+T10	Organisation 193 214	Detroit Publishing Co
+T11	Location 247 254	Detroit
+T12	Location 256 260	Mich
+T13	Organisation 264 292	Detroit Photographic Company
+T14	Date 294 298	1905
+T15	Location 375 380	Wales
+T16	Misc 388 415	Photochrom print collection
+T17	Location 432 437	Wales
+T18	Location 439 449	Carmarthen
+T19	Date 489 493	1890
+T20	Date 494 498	1900
+T21	Location 572 591	Library of Congress
+T22	Location 593 624	Prints and Photographs Division
+T23	Location 626 642	Washington, D.C.
+T24	Location 649 652	USA
+T25	Location 735 740	Wales
+T26	Misc 789 816	Photochrom Print Collection
+#T1	AnnotatorNotes T1	http://www.wikidata.org/entity/Q1585849
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q835835
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q25
+#T5	AnnotatorNotes T5	http://www.wikidata.org/entity/Q1585849
+#T6	AnnotatorNotes T6	http://www.wikidata.org/entity/Q835835
+#T7	AnnotatorNotes T7	http://www.wikidata.org/entity/Q25
+#T10	AnnotatorNotes T10	http://www.wikidata.org/entity/Q3391589
+#T11	AnnotatorNotes T11	http://www.wikidata.org/entity/Q12439
+#T12	AnnotatorNotes T12	http://www.wikidata.org/entity/Q1775183
+#T13	AnnotatorNotes T13	http://www.wikidata.org/entity/Q110280196
+#T15	AnnotatorNotes T15	http://www.wikidata.org/entity/Q25
+#T17	AnnotatorNotes T17	http://www.wikidata.org/entity/Q25
+#T18	AnnotatorNotes T18	http://www.wikidata.org/entity/Q835835
+#T21	AnnotatorNotes T21	http://www.wikidata.org/entity/Q131454
+#T22	AnnotatorNotes T22	http://www.wikidata.org/entity/Q66812256
+#T23	AnnotatorNotes T23	http://www.wikidata.org/entity/Q61
+#T24	AnnotatorNotes T24	http://www.wikidata.org/entity/Q30
+#T25	AnnotatorNotes T25	http://www.wikidata.org/entity/Q25
+R1	location_in Arg1:T1 Arg2:T2	
+R2	location_in Arg1:T2 Arg2:T3	
+R3	location_in Arg1:T5 Arg2:T6	
+R4	location_in Arg1:T6 Arg2:T7	
+R5	location_in Arg1:T18 Arg2:T17	
+R6	location_in Arg1:T21 Arg2:T22	
+R7	location_in Arg1:T22 Arg2:T23	
+R8	location_in Arg1:T11 Arg2:T12	
+R9	point_in_time Arg1:T1 Arg2:T4	
+R10	depicts Arg1:T16 Arg2:T15	
+R11	location_in Arg1:T23 Arg2:T24	

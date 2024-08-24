@@ -1,0 +1,20 @@
+T4	Location 46 52	Bangor
+T8	Location 127 133	Bangor
+T9	Location 135 142	Gwynedd
+T10	Misc 99 114	Grade II listed
+T11	Misc 168 176	Wicipics
+T12	Organisation 214 230	Creative Commons
+T13	Misc 231 251	CC BY-SA 3.0 Licence
+#T4	AnnotatorNotes T4	http://www.wikidata.org/entity/Q234178
+#T8	AnnotatorNotes T8	http://www.wikidata.org/entity/Q234178
+#T9	AnnotatorNotes T9	http://www.wikidata.org/entity/Q109128
+#T10	AnnotatorNotes T10	http://www.wikidata.org/entity/Q15700834
+#T11	AnnotatorNotes T11	http://www.wikidata.org/entity/Q101553389
+#T12	AnnotatorNotes T12	http://www.wikidata.org/entity/Q43449
+#5	AnnotatorNotes T13	https://www.wikidata.org/wiki/Q14946043
+T1	Location 0 44	Neuadd Dyfrdwy (Normal College) College Road
+#1	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q29483723
+T2	Location 53 97	Neuadd Dyfrdwy (Normal College) College Road
+#2	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q29483723
+R1	location_in Arg1:T1 Arg2:T4	
+R2	location_in Arg1:T8 Arg2:T9	

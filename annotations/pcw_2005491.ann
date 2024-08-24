@@ -1,0 +1,9 @@
+T1	Person 0 13	Chris Harding
+T2	Person 40 45	Chris
+T3	Organisation 23 39	The Wonder Stuff
+#1	AnnotatorNotes T3	https://www.wikidata.org/wiki/Q500101
+T4	Organisation 65 81	the Wonder Stuff
+#2	AnnotatorNotes T4	https://www.wikidata.org/wiki/Q500101
+T5	Date 85 89	1989
+T6	Location 93 107	Newport Centre
+#3	AnnotatorNotes T6	https://www.wikidata.org/wiki/Q11790927

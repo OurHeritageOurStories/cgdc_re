@@ -1,0 +1,5 @@
+T2	Location 18 26	Polperro
+#2	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q1025780
+T3	Person 67 77	Anne Croft
+T1	Location 0 16	The Roman Bridge
+R1	location_in Arg1:T1 Arg2:T2	

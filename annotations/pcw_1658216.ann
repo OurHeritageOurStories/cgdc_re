@@ -1,0 +1,21 @@
+T1	Location 0 16	19 Chapel Street
+T2	Location 18 27	Llandudno
+T4	Location 28 45	19, Chapel Street
+T5	Location 47 56	Llandudno
+T6	Misc 58 73	Grade II listed
+#1	AnnotatorNotes T6	Named category?
+T7	Location 86 95	Llandudno
+T8	Misc 121 129	Wicipics
+T9	Organisation 167 183	Creative Commons
+T10	Misc 184 204	CC BY-SA 3.0 Licence
+#T1	AnnotatorNotes T1	http://www.wikidata.org/entity/Q29502328
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q996492
+#T4	AnnotatorNotes T4	http://www.wikidata.org/entity/Q26336716
+#T5	AnnotatorNotes T5	http://www.wikidata.org/entity/Q996492
+#T6	AnnotatorNotes T6	http://www.wikidata.org/entity/Q15700834
+#T7	AnnotatorNotes T7	http://www.wikidata.org/entity/Q996492
+#T8	AnnotatorNotes T8	http://www.wikidata.org/entity/Q101553389
+#T9	AnnotatorNotes T9	http://www.wikidata.org/entity/Q43449
+#2	AnnotatorNotes T10	https://www.wikidata.org/wiki/Q14946043
+R1	location_in Arg1:T1 Arg2:T2	
+R2	location_in Arg1:T4 Arg2:T5	

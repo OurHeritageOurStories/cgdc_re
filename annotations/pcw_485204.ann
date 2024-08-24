@@ -1,0 +1,13 @@
+T4	Person 110 124	Adrian Spinola
+T5	Organisation 150 204	Royal Welsh College of Music and Drama Arts Management
+#2	AnnotatorNotes T5	https://www.wikidata.org/wiki/Q7375001
+T6	Person 215 226	Lucy Pricce
+T7	Date 284 288	2014
+R1	employer Arg1:T6 Arg2:T5	
+T8	Misc 22 49	Out of Africa Queen Costume
+R2	notable_work Arg1:T4 Arg2:T8	
+T3	Misc 0 16	Cardiff Carnival
+T1	Misc 96 109	Lead Designer
+R3	occupation Arg1:T4 Arg2:T1	
+T2	Date 17 21	2015
+R4	point_in_time Arg1:T3 Arg2:T2	

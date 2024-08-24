@@ -1,0 +1,23 @@
+T1	Person 0 13	Peggy Edwards
+T2	Location 15 20	Wales
+T3	Date 47 62	10 October 1952
+T4	Person 79 92	Geoff Charles
+T5	Person 95 108	Peggy Edwards
+T6	Location 113 124	Aberystwyth
+T7	Date 155 160	1950s
+T8	Person 189 198	Mai Jones
+T9	Misc 241 258	Theatr y Talentau
+T10	Misc 261 279	Theatre of Talents
+T11	Location 294 305	King's Hall
+T12	Location 307 318	Aberystwyth
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q25
+#T4	AnnotatorNotes T4	http://www.wikidata.org/entity/Q5534081
+#T6	AnnotatorNotes T6	http://www.wikidata.org/entity/Q213154
+#T8	AnnotatorNotes T8	http://www.wikidata.org/entity/Q6735137
+#T11	AnnotatorNotes T11	https://www.wikidata.org/wiki/Q30524253
+#T12	AnnotatorNotes T12	http://www.wikidata.org/entity/Q213154
+R1	residence Arg1:T5 Arg2:T6	
+R2	significant_person Arg1:T5 Arg2:T8	
+R3	location Arg1:T9 Arg2:T11	
+R4	location Arg1:T10 Arg2:T11	
+R5	location_in Arg1:T11 Arg2:T12	

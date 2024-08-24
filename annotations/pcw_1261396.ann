@@ -1,0 +1,7 @@
+T1	Location 37 56	Rhiwgreiddyn quarry
+T2	Location 58 64	Ceinws
+T3	Location 66 79	Esgairgeiliog
+T4	Person 133 152	Mr Sam R. Evans MBE
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q3406673
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q3406673
+R1	location_in Arg1:T1 Arg2:T2	

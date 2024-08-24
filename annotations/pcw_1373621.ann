@@ -1,0 +1,12 @@
+T1	Misc 0 21	Rainbows from Windows
+T2	Person 25 30	Helen
+T3	Date 32 42	March 2020
+T4	Misc 64 83	Rainbows in Windows
+T5	Misc 116 137	Rainbows from Windows
+T6	Location 141 146	Wales
+T7	Person 179 194	Helen Robertson
+#T2	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q13376892
+#T6	AnnotatorNotes T6	http://www.wikidata.org/entity/Q25
+R1	notable_work Arg1:T2 Arg2:T1	
+R2	inception Arg1:T1 Arg2:T3	
+R3	location Arg1:T5 Arg2:T6	

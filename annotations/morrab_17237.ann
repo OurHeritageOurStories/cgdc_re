@@ -1,0 +1,12 @@
+T1	Location 0 12	Gothic House
+T2	Location 14 29	Adelaide Street
+T3	Location 31 39	Penzance
+#1	AnnotatorNotes T3	https://www.wikidata.org/wiki/Q208209
+T4	Person 58 69	Omar Pascoe
+T5	Date 75 79	1851
+T9	Person 107 111	Mary
+#2	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q26515392
+R1	date_of_birth Arg1:T4 Arg2:T5	
+R2	spouse Arg1:T4 Arg2:T9	
+R3	location_in Arg1:T1 Arg2:T3	
+R4	location_in Arg1:T2 Arg2:T3	

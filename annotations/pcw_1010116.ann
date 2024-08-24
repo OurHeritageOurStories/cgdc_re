@@ -1,0 +1,8 @@
+T1	Person 13 24	Apollinaris
+T2	Location 50 55	Wales
+#1	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q25
+T3	Location 231 239	Auckland
+#2	AnnotatorNotes T3	https://www.wikidata.org/wiki/Q37100
+T4	Location 241 252	New Zealand
+#3	AnnotatorNotes T4	https://www.wikidata.org/wiki/Q37100
+R1	location_in Arg1:T3 Arg2:T4	

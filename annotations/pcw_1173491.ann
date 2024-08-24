@@ -1,0 +1,9 @@
+T1	Misc 0 19	The Eisteddfod Sign
+T2	Date 20 24	2019
+T3	Date 70 74	2019
+T4	Location 61 69	Llanrwst
+T5	Misc 25 57	The Conwy County Eisteddfod Sign
+#T4	AnnotatorNotes T4	http://www.wikidata.org/entity/Q2233618
+R1	point_in_time Arg1:T1 Arg2:T2	
+R2	location Arg1:T5 Arg2:T4	
+R3	point_in_time Arg1:T5 Arg2:T3	

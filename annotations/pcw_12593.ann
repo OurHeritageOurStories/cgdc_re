@@ -1,0 +1,95 @@
+T1	Misc 0 11	Old English
+T2	Misc 16 28	Anglo-Saxons
+T3	Location 44 51	England
+T4	Misc 69 74	Roman
+T5	Misc 90 98	Germanic
+T6	Misc 143 154	Continental
+T7	Misc 170 181	Anglo-Saxon
+T8	Location 222 229	England
+T9	Location 235 240	Wales
+T10	Location 291 302	Offa's Dyke
+T11	Misc 381 392	Old English
+T12	Misc 404 429	The Anglo-Saxon Chronicle
+T13	Misc 435 455	Worcester Manuscript
+T14	Misc 473 495	MS Cotton Tiberius Biv
+T15	Misc 547 553	Viking
+T16	Location 562 567	Wales
+T17	Date 571 577	AD 915
+T18	Location 1067 1074	Warwick
+T19	Location 1152 1160	Brittany
+T20	Person 1187 1192	Ohtor
+T21	Person 1197 1203	Hroald
+T22	Person 735 740	Ohtor
+T23	Person 745 751	Hroald
+T24	Location 701 710	Lioðwicum
+T25	Location 637 646	Wæringwic
+T26	Location 1268 1274	Severn
+T27	Location 1287 1292	Wales
+T28	Location 799 804	Sæfan
+T29	Location 828 839	Norð Wealas
+T30	Person 1351 1359	Cameleac
+T31	Misc 1361 1382	bishop of Archenfield
+T32	Person 898 906	Cameleac
+T33	Misc 907 931	bisceop on Iercingafelda
+T34	Person 981 996	Eadweard cyning
+T35	Person 1424 1435	King Edward
+T36	Misc 1483 1490	English
+T37	Person 1511 1526	Michael Swanton
+T38	Date 1527 1531	1996
+T39	Misc 1537 1562	The Anglo-Saxon Chronicle
+T40	Location 1569 1575	London
+T41	Organisation 1577 1588	Dent, J. M.
+T42	Misc 1590 1601	Old English
+T43	Person 1613 1633	Professor John Hines
+T44	Organisation 1635 1653	Cardiff University
+T45	Misc 1180 1185	jarls
+T46	Misc 723 729	eorlas
+T47	Misc 510 516	cleric
+#T1	AnnotatorNotes T1	http://www.wikidata.org/entity/Q42365
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q32768
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q21
+#T5	AnnotatorNotes T5	http://www.wikidata.org/entity/Q21200
+#T6	AnnotatorNotes T6	https://www.wikidata.org/wiki/Q466039
+#T7	AnnotatorNotes T7	http://www.wikidata.org/entity/Q42365
+#T8	AnnotatorNotes T8	http://www.wikidata.org/entity/Q21
+#T9	AnnotatorNotes T9	http://www.wikidata.org/entity/Q25
+#T10	AnnotatorNotes T10	http://www.wikidata.org/entity/Q1127343
+#T11	AnnotatorNotes T11	http://www.wikidata.org/entity/Q42365
+#T12	AnnotatorNotes T12	http://www.wikidata.org/entity/Q94659677
+#T15	AnnotatorNotes T15	https://www.wikidata.org/wiki/Q12567
+#T16	AnnotatorNotes T16	http://www.wikidata.org/entity/Q25
+#T18	AnnotatorNotes T18	http://www.wikidata.org/entity/Q549761
+#T19	AnnotatorNotes T19	https://www.wikidata.org/wiki/Q327
+#T21	AnnotatorNotes T21	https://www.wikidata.org/wiki/Q15889630
+#T23	AnnotatorNotes T23	https://www.wikidata.org/wiki/Q15889630
+#T26	AnnotatorNotes T26	http://www.wikidata.org/entity/Q19682
+#T27	AnnotatorNotes T27	http://www.wikidata.org/entity/Q25
+#T34	AnnotatorNotes T34	https://www.wikidata.org/wiki/Q187114
+#T35	AnnotatorNotes T35	https://www.wikidata.org/wiki/Q187114
+#T36	AnnotatorNotes T36	http://www.wikidata.org/entity/Q1860
+#T37	AnnotatorNotes T37	http://www.wikidata.org/entity/Q6834717
+#T39	AnnotatorNotes T39	https://www.wikidata.org/wiki/Q66736822
+#T40	AnnotatorNotes T40	http://www.wikidata.org/entity/Q84
+#T42	AnnotatorNotes T42	http://www.wikidata.org/entity/Q42365
+#T44	AnnotatorNotes T44	http://www.wikidata.org/entity/Q1035745
+#T45	AnnotatorNotes T45	https://www.wikidata.org/wiki/Q40403
+#T47	AnnotatorNotes T47	http://www.wikidata.org/entity/Q2259532
+#1	AnnotatorNotes T4	https://www.wikidata.org/wiki/Q185103
+#2	AnnotatorNotes T13	https://www.wikidata.org/wiki/Q59662686
+#3	AnnotatorNotes T14	https://www.wikidata.org/wiki/Q59662686
+T48	Organisation 457 472	British Library
+#4	AnnotatorNotes T48	https://www.wikidata.org/wiki/Q23308
+#5	AnnotatorNotes T25	http://www.wikidata.org/entity/Q549761
+#6	AnnotatorNotes T24	https://www.wikidata.org/wiki/Q327
+#7	AnnotatorNotes T46	https://www.wikidata.org/wiki/Q40403
+#8	AnnotatorNotes T28	http://www.wikidata.org/entity/Q19682
+#9	AnnotatorNotes T29	https://www.wikidata.org/wiki/Q1892770
+#10	AnnotatorNotes T41	https://www.wikidata.org/wiki/Q6106398
+#11	AnnotatorNotes T43	https://www.wikidata.org/wiki/Q48434610
+R1	operating_area Arg1:T2 Arg2:T3	
+R2	operating_area Arg1:T15 Arg2:T16	
+R3	occupation Arg1:T20 Arg2:T45	
+R4	occupation Arg1:T21 Arg2:T45	
+R5	occupation Arg1:T30 Arg2:T31	
+R6	employer Arg1:T43 Arg2:T44	
+R7	work_location Arg1:T41 Arg2:T40	

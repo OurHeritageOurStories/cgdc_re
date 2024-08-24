@@ -1,0 +1,10 @@
+T1	Person 13 36	Frederick George Swaish
+#1	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q19921912
+T2	Date 38 42	1880
+T4	Location 84 114	Newport Museum and Art Gallery
+#2	AnnotatorNotes T4	https://www.wikidata.org/wiki/Q15262183
+T5	Misc 0 11	Country Lad
+#3	AnnotatorNotes T5	https://www.wikidata.org/wiki/Q119809447
+T3	Date 43 47	1930
+R1	date_of_birth Arg1:T1 Arg2:T2	
+R2	date_of_death Arg1:T1 Arg2:T3	

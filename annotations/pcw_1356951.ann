@@ -1,0 +1,20 @@
+T2	Location 45 52	Mumbles
+T4	Location 98 105	Mumbles
+T5	Location 126 134	Southend
+T6	Location 136 143	Mumbles
+T7	Person 147 155	Paulette
+T9	Person 171 178	Carmela
+T8	Person 238 246	Paulette
+T10	Person 257 268	Mario Luigi
+T11	Person 373 387	Paulette Pelos
+T3	Person 69 75	Pelosi
+T1	Person 16 22	Pelosi
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q1952591
+#T4	AnnotatorNotes T4	http://www.wikidata.org/entity/Q1952591
+#T6	AnnotatorNotes T6	http://www.wikidata.org/entity/Q1952591
+#T7	AnnotatorNotes T7	http://www.wikidata.org/entity/Q497612
+#T9	AnnotatorNotes T9	http://www.wikidata.org/entity/Q19798637
+#T8	AnnotatorNotes T8	http://www.wikidata.org/entity/Q497612
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q47544271
+#T1	AnnotatorNotes T1	http://www.wikidata.org/entity/Q47544271
+R1	location_in Arg1:T5 Arg2:T6	

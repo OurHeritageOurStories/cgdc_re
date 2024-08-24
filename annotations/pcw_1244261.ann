@@ -1,0 +1,10 @@
+T1	Person 0 4	Sian
+T2	Person 9 14	Steve
+T3	Person 18 22	Sian
+T4	Person 27 32	Steve
+T5	Person 241 246	Steve
+T6	Person 259 263	Sian
+T7	Person 486 491	Steve
+T8	Location 723 730	Wrexham
+#T8	AnnotatorNotes T8	http://www.wikidata.org/entity/Q496368
+R1	spouse Arg1:T3 Arg2:T4	

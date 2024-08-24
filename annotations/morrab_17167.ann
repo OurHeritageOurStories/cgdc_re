@@ -1,0 +1,42 @@
+T2	Date 18 26	18001883
+T3	Person 0 17	Rev. Henry Browne
+T4	Person 27 46	Henry Albert Browne
+T5	Person 48 64	Caldwell Harpurs
+#1	AnnotatorNotes T5	https://www.wikidata.org/wiki/Q95905241
+#2	AnnotatorNotes T4	https://www.wikidata.org/wiki/Q97581503
+#3	AnnotatorNotes T3	https://www.wikidata.org/wiki/Q97581503
+T6	Date 99 103	1800
+T7	Location 107 114	Torquay
+#4	AnnotatorNotes T7	https://www.wikidata.org/wiki/Q209055
+T8	Location 116 121	Devon
+#5	AnnotatorNotes T8	https://www.wikidata.org/wiki/Q23156
+T9	Person 125 145	William Loder Browne
+T10	Person 150 166	Katherine Hunter
+T11	Location 236 242	Oxford
+#6	AnnotatorNotes T11	https://www.wikidata.org/wiki/Q34217
+T12	Date 250 255	1820s
+T13	Location 283 287	Toft
+#7	AnnotatorNotes T13	https://www.wikidata.org/wiki/Q7812993
+T14	Location 291 303	Lincolnshire
+#8	AnnotatorNotes T14	https://www.wikidata.org/wiki/Q23090
+T15	Person 375 401	Frances Margaret Nicholson
+T16	Date 405 418	1st June 1830
+T17	Date 468 472	1838
+T18	Person 491 506	Eliza Ann Blake
+T19	Date 510 524	22nd Feb. 1845
+T20	Date 538 542	1866
+T21	Date 547 551	1870
+T22	Person 580 598	Sarah Alice Casson
+T23	Date 612 626	2nd. oct. 1883
+T24	Location 630 637	Caistor
+#9	AnnotatorNotes T24	https://www.wikidata.org/wiki/Q2560214
+T25	Location 639 651	Lincolnshire
+#10	AnnotatorNotes T25	https://www.wikidata.org/wiki/Q23090
+T26	Person 653 665	Eliza Blakes
+R1	date_of_birth Arg1:T4 Arg2:T6	
+R2	place_of_birth Arg1:T4 Arg2:T7	
+R3	spouse Arg1:T9 Arg2:T10	
+T1	Misc 273 279	rector
+R4	location_in Arg1:T7 Arg2:T8	
+R5	location_in Arg1:T13 Arg2:T14	
+R6	location_in Arg1:T24 Arg2:T25	

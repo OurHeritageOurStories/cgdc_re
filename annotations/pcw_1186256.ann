@@ -1,0 +1,23 @@
+T1	Location 0 31	London Road Presbyterian Church
+T2	Location 33 38	Neath
+T3	Date 40 46	c.1919
+T4	Misc 48 75	Contemporary Roll of Honour
+T5	Location 83 113	London Road Presbyterian Curch
+T6	Location 115 120	Neath
+T7	Misc 142 156	U-Boat Project
+T8	Date 157 164	1914-18
+T11	Organisation 188 206	Swansea University
+T9	Person 168 186	Dr Gethin Matthews
+#T2	AnnotatorNotes T2	http://www.wikidata.org/entity/Q2003342
+#T6	AnnotatorNotes T6	http://www.wikidata.org/entity/Q2003342
+#T11	AnnotatorNotes T11	http://www.wikidata.org/entity/Q1420500
+#1	AnnotatorNotes T1	https://www.wikidata.org/wiki/Q66362702
+#2	AnnotatorNotes T5	https://www.wikidata.org/wiki/Q66362702
+#3	AnnotatorNotes T9	https://www.wikidata.org/wiki/Q99625750
+R1	location_in Arg1:T1 Arg2:T2	
+R2	point_in_time Arg1:T1 Arg2:T3	
+R3	location Arg1:T4 Arg2:T5	
+R4	location_in Arg1:T5 Arg2:T6	
+R5	point_in_time Arg1:T7 Arg2:T8	
+R6	notable_work Arg1:T9 Arg2:T7	
+R7	employer Arg1:T9 Arg2:T11	

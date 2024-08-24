@@ -1,0 +1,12 @@
+T4	Person 39 48	S. Loxton
+T5	Person 112 121	S. Loxton
+T9	Date 132 144	19th century
+T10	Date 59 71	19th century
+T1	Misc 1 33	Castle Hill and Two Piers, Tenby
+T2	Misc 74 106	Castle Hill and Two Piers, Tenby
+#1	AnnotatorNotes T4	https://www.wikidata.org/wiki/Q7412048
+#2	AnnotatorNotes T5	https://www.wikidata.org/wiki/Q7412048
+R1	notable_work Arg1:T4 Arg2:T1	
+R2	inception Arg1:T1 Arg2:T10	
+R3	notable_work Arg1:T5 Arg2:T2	
+R4	inception Arg1:T2 Arg2:T9	

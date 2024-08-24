@@ -1,0 +1,6 @@
+T1	Organisation 0 19	Glynneath golf club
+T2	Location 21 37	Pontneathvaughan
+T4	Date 83 87	1938
+T5	Date 132 140	the 70`s
+#T2	AnnotatorNotes T2	https://www.wikidata.org/wiki/Q7228314
+R1	work_location Arg1:T1 Arg2:T2	

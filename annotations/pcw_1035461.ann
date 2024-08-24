@@ -1,0 +1,6 @@
+T1	Person 22 38	Elizabeth Savage
+T3	Misc 55 72	Alchemilla glabra
+T2	Misc 0 20	Smooth Lady's-mantle
+#T3	AnnotatorNotes T3	http://www.wikidata.org/entity/Q159214
+#1	AnnotatorNotes T2	http://www.wikidata.org/entity/Q159214
+R1	notable_work Arg1:T1 Arg2:T2	
